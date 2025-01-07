@@ -1,0 +1,2001 @@
+ID_Producto,Nombre_Producto,Categoria,Marca,Precio_Costo,Precio_Venta,Stock_Actual
+00001,my,Laptop,Johnson-Cantrell,254.3,436.83,77
+00002,majority,Smartphone,Rivas Ltd,460.71,324.9,20
+00003,we,Laptop,Herman-Vazquez,444.06,493.45,65
+00004,must,Smartphone,Bryant-Griffin,387.56,462.64,29
+"00005,former,Laptop,""Hart, Lopez and Sanders"",317.59,212.91,7"
+"00006,range,Laptop,""Burns, Silva and Petersen"",254.64,405.08,34"
+"00007,type,Accessory,""Miller, Goodwin and Young"",302.69,278.25,66"
+"00008,production,Tablet,""Thornton, Morgan and Smith"",305.19,239.64,89"
+00009,me,Smartphone,Martin LLC,384.56,481.43,72
+"00010,join,Laptop,""Stone, Thompson and Johnson"",267.84,179.07,52"
+00011,space,Tablet,Rodriguez Inc,160.82,611.46,23
+"00012,research,Tablet,""Moody, Foley and Mitchell"",366.91,636.33,98"
+00013,ready,Smartphone,Reyes-Ramirez,133.36,395.69,6
+00014,example,Laptop,Smith Inc,381.61,270.0,89
+"00015,laugh,Accessory,""Warner, Phillips and Simpson"",350.67,184.82,68"
+"00016,future,Accessory,""Alexander, Humphrey and Saunders"",387.7,330.95,36"
+00017,relate,Tablet,Jackson-Garcia,321.37,202.92,56
+"00018,finish,Accessory,""Nelson, Paul and Salazar"",271.17,469.53,79"
+"00019,successful,Laptop,""Smith, Joseph and Rhodes"",452.67,440.04,75"
+00020,speech,Smartphone,Johnson-Briggs,384.42,220.74,28
+00021,cultural,Smartphone,Garcia LLC,169.21,408.61,84
+00022,in,Smartphone,Glenn LLC,296.32,600.1,3
+00023,nothing,Laptop,Douglas Ltd,220.21,476.57,98
+00024,make,Tablet,Townsend-Molina,471.92,440.28,70
+00025,ask,Accessory,Brown Group,430.22,259.8,100
+"00026,partner,Smartphone,""Bailey, Ewing and Johnson"",92.2,140.17,64"
+00027,charge,Accessory,Burns-Mathis,249.36,416.88,59
+00028,cover,Laptop,Sanchez-Jones,53.66,95.46,92
+00029,simple,Smartphone,Davis LLC,248.21,101.22,20
+00030,five,Tablet,Sanchez LLC,302.67,322.68,75
+00031,charge,Laptop,Garza LLC,232.82,529.01,20
+00032,important,Smartphone,Wiley Inc,411.71,197.75,84
+"00033,bad,Accessory,""Glover, Sexton and Gray"",493.93,110.68,11"
+00034,certainly,Tablet,Macias-Wu,56.28,204.97,63
+00035,dark,Laptop,Ibarra-Bradley,215.64,565.63,40
+00036,new,Smartphone,Soto-Calhoun,317.95,414.71,93
+"00037,art,Accessory,""Howard, Villegas and Garcia"",266.52,661.97,61"
+00038,mission,Smartphone,Bryant and Sons,229.36,569.49,92
+00039,able,Laptop,Perez-Garcia,390.77,328.57,50
+00040,standard,Tablet,Carter-Kaiser,214.3,97.01,85
+00041,account,Tablet,Saunders-Savage,466.42,62.86,39
+00042,sea,Tablet,Wilson and Sons,325.52,163.9,68
+00043,decade,Accessory,Hamilton-Pineda,464.9,698.38,50
+00044,get,Accessory,Shannon-Kelly,403.98,350.0,7
+00045,member,Accessory,Hardy-Wright,384.56,504.57,37
+00046,only,Tablet,Russell-Smith,292.63,514.16,59
+00047,state,Laptop,Garrison and Sons,84.06,204.64,53
+00048,travel,Smartphone,Garner-Chen,310.52,468.66,58
+00049,letter,Laptop,Bruce PLC,227.87,80.1,41
+"00050,name,Accessory,""Zavala, Mccullough and Hodges"",93.2,155.18,87"
+"00051,camera,Tablet,""Harrison, Hanson and Davidson"",200.28,243.67,8"
+00052,data,Smartphone,Gomez Group,492.7,344.12,18
+00053,truth,Accessory,Sims and Sons,316.53,462.98,86
+00054,yes,Accessory,Morgan PLC,377.65,448.04,21
+00055,finish,Tablet,Herman-Acevedo,295.29,64.23,100
+00056,past,Accessory,Liu Ltd,486.37,247.39,24
+00057,why,Tablet,Brooks-Garcia,310.41,122.9,72
+00058,ability,Smartphone,Silva LLC,475.3,75.58,57
+"00059,memory,Smartphone,""Gibson, Lawrence and Bailey"",258.71,529.93,94"
+"00060,guess,Laptop,""Shaw, Lee and Knapp"",282.15,506.71,0"
+00061,out,Laptop,Allen PLC,310.85,229.75,11
+00062,great,Accessory,Brandt and Sons,109.65,194.5,99
+00063,morning,Smartphone,Mills-Serrano,459.74,98.8,38
+"00064,every,Tablet,""Gonzalez, Hart and Day"",439.3,204.42,26"
+00065,wish,Laptop,Vaughn Group,497.25,121.1,87
+"00066,instead,Smartphone,""Sims, Jackson and Potter"",304.35,139.51,75"
+00067,whatever,Tablet,Faulkner-Perkins,79.49,642.76,19
+00068,despite,Accessory,Johnson-Townsend,494.62,241.03,14
+00069,occur,Tablet,Simpson Ltd,259.27,518.7,31
+00070,far,Tablet,Stevens and Sons,52.6,582.87,56
+00071,effect,Tablet,Thomas PLC,174.76,547.83,95
+00072,everything,Smartphone,Kramer Group,380.1,383.49,11
+00073,company,Tablet,Robles PLC,89.59,258.85,95
+"00074,good,Smartphone,""Reyes, Huber and Welch"",77.47,368.35,23"
+00075,one,Tablet,Jackson LLC,199.43,527.66,32
+00076,well,Tablet,James-Miller,272.82,210.45,93
+00077,red,Smartphone,Ward-Mckinney,305.24,144.12,100
+"00078,agreement,Accessory,""Mccullough, Rios and Ryan"",196.76,196.31,33"
+00079,recent,Accessory,Elliott-Washington,370.73,99.1,46
+00080,ok,Tablet,Yang PLC,352.2,567.33,82
+00081,study,Smartphone,Pearson-Moore,315.66,108.7,32
+00082,long,Accessory,Trevino Ltd,492.73,558.27,99
+"00083,north,Laptop,""Mack, Tucker and Boyer"",428.94,534.02,65"
+00084,probably,Tablet,Osborne-Fowler,385.84,296.24,18
+00085,step,Accessory,Jones-Barnes,458.3,277.76,90
+00086,yet,Accessory,Wilson Ltd,291.95,134.58,100
+00087,attack,Laptop,Dennis-Wilson,222.46,449.23,39
+00088,bill,Tablet,Rivera Ltd,379.11,194.69,22
+"00089,control,Laptop,""Anthony, Holden and Smith"",295.89,384.36,19"
+00090,assume,Laptop,Long-Padilla,85.1,540.51,71
+00091,both,Accessory,Clark Ltd,450.89,491.24,52
+"00092,face,Accessory,""Robbins, Brown and Garcia"",166.58,294.92,13"
+"00093,baby,Smartphone,""Smith, Simmons and Stewart"",195.11,80.53,50"
+00094,item,Tablet,Shields-Murray,100.9,391.27,40
+00095,foreign,Tablet,Williams-Hunter,119.37,635.01,40
+00096,international,Accessory,Casey-Hancock,359.16,621.77,34
+00097,positive,Laptop,Cox-Wright,255.81,122.05,70
+00098,see,Smartphone,Vaughn-Woodward,90.73,93.54,53
+00099,physical,Accessory,Garcia Group,424.92,394.87,90
+00100,economy,Smartphone,Dawson Group,169.23,407.94,64
+"00101,bed,Tablet,""Sutton, Avila and Lucas"",125.06,640.56,49"
+"00102,color,Accessory,""Carlson, Hayes and Rivera"",247.62,446.86,61"
+00103,yes,Laptop,West LLC,406.78,101.82,51
+00104,suggest,Laptop,Morgan-Molina,129.16,286.22,14
+00105,movie,Laptop,Houston-Kane,178.78,668.48,43
+"00106,third,Accessory,""Allen, Butler and Soto"",199.3,493.94,32"
+00107,father,Tablet,Duncan-Walsh,86.11,378.29,62
+00108,friend,Accessory,Luna PLC,227.46,183.12,74
+00109,authority,Laptop,Cook Group,194.3,70.79,23
+"00110,operation,Smartphone,""Diaz, Irwin and Huffman"",499.31,574.63,50"
+"00111,change,Smartphone,""Mullen, Dorsey and Huff"",316.16,576.2,12"
+00112,speak,Laptop,Payne PLC,270.42,263.02,7
+00113,surface,Accessory,Mahoney LLC,113.89,410.08,55
+00114,option,Tablet,Lozano Group,204.12,577.05,5
+"00115,age,Smartphone,""Simmons, Parker and Ali"",280.98,123.62,23"
+00116,check,Tablet,Bishop-Elliott,416.42,337.03,95
+00117,author,Tablet,Parker Group,499.26,319.89,6
+"00118,than,Tablet,""Hayes, Smith and White"",103.03,658.61,74"
+00119,quality,Accessory,Moore-Newton,449.69,436.79,6
+"00120,edge,Smartphone,""Miller, Parrish and Gomez"",199.67,506.83,34"
+00121,arm,Accessory,Carey Inc,356.76,338.48,99
+00122,will,Laptop,Cline PLC,403.45,95.07,21
+00123,wish,Tablet,Conley-Edwards,126.91,369.96,82
+00124,certainly,Smartphone,Rodriguez Ltd,189.43,661.54,46
+00125,such,Tablet,Cervantes-Church,261.08,264.8,18
+"00126,bring,Smartphone,""Davis, Meyer and Gomez"",77.1,660.34,58"
+"00127,character,Smartphone,""Mills, Jones and Maldonado"",329.21,673.34,76"
+00128,girl,Smartphone,Peters PLC,477.37,165.11,84
+00129,believe,Smartphone,Medina LLC,267.46,71.37,15
+00130,quickly,Laptop,Graham Ltd,158.64,85.69,58
+"00131,want,Smartphone,""Tucker, Moran and Carlson"",146.23,654.69,31"
+00132,rate,Tablet,Pearson-Mcbride,380.29,380.31,62
+00133,any,Smartphone,Gaines-Hubbard,166.54,205.33,81
+00134,kind,Tablet,Moore and Sons,303.0,107.11,0
+00135,position,Tablet,Rodriguez-Greene,65.47,559.94,95
+00136,early,Smartphone,Sellers Inc,362.34,564.5,61
+00137,technology,Smartphone,Wilson-Wade,341.67,376.8,50
+"00138,author,Smartphone,""Adams, Dickerson and Nelson"",401.42,608.9,64"
+00139,effort,Tablet,Calhoun-Hodges,292.6,357.37,40
+"00140,dinner,Tablet,""Taylor, Leblanc and King"",306.02,493.23,19"
+00141,church,Accessory,Warner-Aguirre,320.86,488.48,73
+00142,seat,Tablet,Daniel-Miranda,497.15,189.25,19
+00143,financial,Smartphone,Jones and Sons,161.21,403.45,49
+"00144,factor,Laptop,""Rodriguez, Johnson and Brown"",493.25,519.48,22"
+"00145,environmental,Laptop,""Hunt, Liu and Graham"",487.37,243.23,15"
+00146,black,Smartphone,Lara-Taylor,171.95,243.66,95
+00147,high,Laptop,Ochoa LLC,456.35,92.98,88
+00148,ago,Accessory,King Inc,81.09,395.68,50
+"00149,we,Laptop,""Gardner, Carson and Brown"",382.47,504.82,72"
+"00150,now,Tablet,""Bowers, Anderson and Munoz"",102.98,450.92,46"
+00151,stage,Tablet,Walker-Hancock,164.1,599.65,6
+00152,no,Tablet,Thompson-Barker,244.2,566.92,67
+"00153,make,Smartphone,""Edwards, Owens and Estrada"",137.61,283.53,41"
+"00154,be,Accessory,""Johnson, Mercer and Luna"",171.81,660.06,44"
+00155,under,Smartphone,Becker-Mack,90.78,629.15,85
+"00156,account,Laptop,""Jordan, Jackson and Wyatt"",263.11,515.29,47"
+"00157,director,Tablet,""Smith, Ballard and Blankenship"",316.03,394.52,97"
+00158,stop,Accessory,Finley-Wilson,473.36,632.18,54
+00159,environment,Smartphone,Lewis and Sons,210.35,246.78,79
+00160,commercial,Accessory,Gomez-Lee,458.6,682.26,42
+"00161,everyone,Accessory,""Mckenzie, Acosta and Schultz"",324.77,576.84,94"
+00162,case,Laptop,Garcia-Lee,130.12,183.25,45
+"00163,bring,Accessory,""Luna, Monroe and Hughes"",391.9,526.2,34"
+00164,shake,Smartphone,Lyons-Greene,289.67,79.99,81
+00165,soon,Smartphone,Douglas Group,469.99,630.69,49
+00166,including,Tablet,Williams-Rodriguez,120.81,569.94,27
+"00167,support,Tablet,""Jones, Perry and Reid"",350.48,279.67,69"
+00168,produce,Smartphone,Gibson and Sons,78.6,600.98,18
+"00169,space,Tablet,""Medina, Smith and Reynolds"",356.59,125.95,97"
+"00170,defense,Laptop,""Moreno, Howard and Coffey"",232.26,150.87,20"
+00171,commercial,Laptop,Butler-Morris,248.04,146.3,82
+00172,determine,Smartphone,Ortiz Group,318.59,367.68,24
+00173,product,Laptop,Pruitt-Buck,239.76,517.92,25
+"00174,business,Tablet,""Harris, Jones and Brown"",414.46,629.92,17"
+00175,campaign,Accessory,Silva PLC,410.78,385.62,8
+00176,teach,Laptop,Allen PLC,189.12,238.87,0
+"00177,although,Accessory,""Perez, Watson and Lynn"",115.16,533.62,11"
+00178,dream,Accessory,Mccormick Ltd,454.73,432.34,98
+00179,lay,Smartphone,Moore-Holmes,339.76,110.96,48
+"00180,job,Smartphone,""Wilson, Harris and Hayes"",441.69,184.95,18"
+00181,image,Accessory,Clark-Jones,317.88,595.1,66
+00182,many,Accessory,White-Santos,496.9,656.29,93
+00183,goal,Accessory,Krueger-Watts,248.92,221.44,3
+"00184,especially,Laptop,""Williams, Skinner and Franklin"",90.54,189.29,83"
+"00185,knowledge,Smartphone,""Morales, Holder and Gutierrez"",475.87,402.52,51"
+"00186,degree,Tablet,""Harrison, Foster and Reed"",429.04,556.03,84"
+00187,performance,Laptop,Coleman LLC,232.03,317.81,62
+"00188,fire,Smartphone,""Salazar, Parker and Griffin"",138.22,558.79,60"
+00189,Congress,Accessory,Robertson LLC,315.11,593.32,97
+00190,charge,Tablet,Herrera and Sons,233.67,99.15,70
+00191,report,Laptop,Miller Inc,393.53,420.22,8
+00192,forget,Laptop,Price and Sons,276.3,500.28,79
+00193,cut,Accessory,Martin Inc,333.94,646.31,72
+00194,statement,Accessory,Tucker and Sons,134.02,167.98,55
+00195,if,Smartphone,Bruce PLC,305.32,499.83,23
+00196,tax,Smartphone,Edwards Group,326.29,456.69,69
+00197,boy,Laptop,Brown and Sons,63.57,77.92,32
+"00198,nothing,Smartphone,""Finley, Murray and Williams"",351.66,76.6,74"
+00199,out,Tablet,Davidson-Huerta,178.22,386.13,79
+00200,leave,Tablet,Ramirez-Lewis,183.87,507.83,84
+00201,oil,Smartphone,Martin-Wright,438.17,169.59,11
+00202,member,Tablet,Owens-Glenn,471.22,366.95,77
+00203,meet,Accessory,Miller Group,431.2,78.84,34
+00204,school,Smartphone,Brewer-Brooks,242.5,258.03,25
+"00205,training,Accessory,""Hamilton, Schroeder and Fuller"",308.35,298.98,4"
+"00206,half,Smartphone,""Lewis, Shepard and Thomas"",327.29,314.67,82"
+00207,prepare,Tablet,Santos LLC,80.54,502.74,20
+"00208,bag,Laptop,""Roman, Harrington and Taylor"",388.94,296.68,8"
+00209,here,Smartphone,Lee Group,216.52,573.79,41
+00210,machine,Tablet,Carter Group,363.35,666.48,1
+00211,matter,Accessory,Fox Ltd,407.7,614.0,11
+00212,huge,Tablet,Santos-Cunningham,429.67,485.22,31
+00213,others,Accessory,Russell Inc,416.11,441.39,25
+"00214,morning,Smartphone,""Murphy, Smith and Edwards"",190.83,169.84,44"
+00215,find,Accessory,Robinson-Tran,463.34,131.88,25
+00216,organization,Smartphone,Weaver-Baldwin,355.41,288.22,75
+00217,five,Accessory,Cruz-Davis,266.18,185.92,6
+"00218,detail,Tablet,""Cruz, Singleton and Rollins"",427.02,230.3,74"
+00219,attorney,Smartphone,Adams-Brown,344.96,169.03,50
+00220,bad,Accessory,Taylor-Neal,393.9,451.11,79
+00221,from,Accessory,Pennington-Bowen,274.04,166.21,51
+00222,such,Laptop,Howell PLC,485.68,419.59,15
+00223,region,Laptop,Miller LLC,83.26,562.55,92
+00224,still,Laptop,Noble LLC,155.06,263.04,77
+00225,kid,Laptop,Holder-Schroeder,237.76,531.86,77
+"00226,force,Accessory,""Joseph, Matthews and Benjamin"",330.25,683.68,68"
+00227,fear,Smartphone,Nelson PLC,197.68,699.23,85
+"00228,movement,Accessory,""Jones, Fox and Michael"",374.96,330.64,43"
+00229,wonder,Tablet,Olson-Carlson,76.96,247.81,81
+00230,feeling,Tablet,Dawson and Sons,488.07,216.93,8
+"00231,decade,Accessory,""Wilson, Andrade and Baker"",200.56,655.4,65"
+00232,couple,Accessory,Patterson Ltd,387.02,698.27,24
+00233,history,Laptop,Cook PLC,456.42,267.26,7
+00234,put,Smartphone,Mcmahon-Dillon,80.67,430.25,92
+00235,into,Laptop,Moore-Marks,175.64,506.32,80
+00236,skill,Accessory,Kelly-Day,75.24,159.97,34
+00237,Congress,Smartphone,Johnston LLC,154.87,327.35,50
+00238,quite,Smartphone,Robinson-Martinez,244.4,570.11,38
+00239,tree,Accessory,Hudson-Jenkins,118.47,643.95,39
+"00240,piece,Smartphone,""Gordon, Fowler and Stewart"",306.76,532.17,69"
+00241,property,Laptop,Carey Inc,373.89,166.81,2
+00242,community,Tablet,Mcbride Ltd,482.0,206.49,2
+00243,community,Smartphone,Cain-Hancock,454.32,120.44,18
+"00244,page,Smartphone,""Cook, Johnson and Leblanc"",200.46,630.17,71"
+00245,recent,Laptop,Clayton PLC,102.95,566.88,24
+00246,rather,Laptop,Schmitt Group,294.84,177.57,28
+00247,right,Tablet,Le-Williams,327.99,379.26,43
+00248,put,Laptop,Cox Ltd,440.68,608.25,17
+00249,edge,Accessory,Boyd LLC,83.51,115.5,35
+"00250,management,Laptop,""Brown, Deleon and Gutierrez"",225.05,695.69,61"
+00251,husband,Smartphone,Mooney-Liu,445.5,439.12,68
+"00252,side,Smartphone,""Sanders, Greer and Cohen"",348.49,545.82,32"
+"00253,pressure,Accessory,""Yoder, Carter and Castillo"",100.26,395.75,3"
+00254,table,Laptop,Small-Caldwell,440.17,566.82,31
+"00255,indeed,Tablet,""Bauer, Blackwell and Cummings"",240.45,293.64,15"
+"00256,daughter,Accessory,""Turner, Johnson and Banks"",216.37,554.5,58"
+00257,return,Accessory,Meyer-Walker,236.65,666.28,56
+"00258,coach,Tablet,""Parker, Brooks and Burton"",465.36,120.97,91"
+"00259,public,Smartphone,""Smith, Mann and Vance"",434.26,252.22,24"
+00260,for,Laptop,Reynolds LLC,237.71,471.14,77
+00261,camera,Tablet,Dixon LLC,92.54,609.68,20
+00262,ready,Tablet,Bell-Mcmillan,229.1,412.67,71
+00263,teacher,Smartphone,Edwards Ltd,375.33,531.03,59
+00264,huge,Tablet,Sparks-David,313.05,594.62,17
+00265,choose,Tablet,Richardson PLC,434.12,425.26,40
+00266,need,Tablet,Lynch-Lopez,421.17,544.14,92
+00267,six,Laptop,Thompson-Bates,301.02,172.74,87
+"00268,report,Laptop,""Hansen, Wyatt and Miller"",436.51,598.95,41"
+00269,idea,Smartphone,Solis-Hill,362.15,211.08,22
+00270,sound,Smartphone,Bennett PLC,442.93,337.12,67
+"00271,point,Smartphone,""Hughes, Chung and Robinson"",239.39,258.14,3"
+"00272,model,Accessory,""Stone, Williams and Ramirez"",292.37,459.65,7"
+00273,thought,Smartphone,Singh Inc,274.98,509.99,77
+"00274,six,Accessory,""Schmidt, Sawyer and Sanders"",163.4,454.15,34"
+00275,agreement,Accessory,Shaw PLC,384.72,452.82,81
+"00276,capital,Smartphone,""Ruiz, Meyer and Bryant"",324.33,369.29,96"
+00277,police,Tablet,Williams Group,268.11,314.78,60
+00278,day,Accessory,Turner LLC,242.85,149.39,13
+00279,sport,Accessory,Faulkner-Moore,275.82,511.39,52
+00280,store,Smartphone,Allen and Sons,68.45,455.67,83
+00281,process,Laptop,Castro and Sons,312.97,255.04,8
+00282,education,Smartphone,Frazier PLC,147.37,279.33,70
+"00283,yard,Smartphone,""Hernandez, Diaz and Higgins"",50.52,690.26,2"
+00284,allow,Accessory,Howard-Stevens,347.77,138.67,82
+00285,however,Accessory,Brown and Sons,229.63,547.21,79
+00286,lot,Laptop,Fischer-Donaldson,55.37,244.56,26
+00287,take,Smartphone,Bishop-Mcguire,424.32,94.73,22
+00288,sound,Accessory,Waller-Morgan,255.29,592.22,81
+00289,general,Laptop,Cruz-Franklin,280.76,335.01,72
+"00290,opportunity,Tablet,""Cummings, Carter and Villegas"",140.4,298.1,75"
+00291,effect,Tablet,Sullivan LLC,461.82,164.95,19
+00292,under,Smartphone,Stevenson-Williams,63.07,206.94,15
+"00293,keep,Accessory,""Griffith, Oconnor and Turner"",273.7,306.61,48"
+00294,raise,Smartphone,Cook-Brown,477.22,649.5,90
+00295,attorney,Smartphone,Perez-Sanford,449.47,91.04,77
+"00296,present,Laptop,""Hernandez, Leblanc and Robles"",191.46,135.71,10"
+00297,environment,Accessory,Foster Inc,169.6,138.24,12
+00298,mean,Accessory,Phillips Ltd,418.49,470.78,27
+00299,natural,Tablet,Gallagher PLC,379.21,445.2,11
+00300,cell,Accessory,Lambert LLC,342.24,504.15,60
+00301,include,Smartphone,Stout Group,144.74,450.37,65
+00302,fall,Smartphone,Farmer Ltd,234.15,339.32,34
+00303,possible,Smartphone,Morrow LLC,457.7,456.37,53
+00304,gas,Laptop,Salazar Group,357.29,600.1,81
+"00305,boy,Laptop,""Hernandez, Lyons and Gonzalez"",497.03,61.75,76"
+00306,maintain,Smartphone,Payne Group,235.45,305.62,19
+00307,audience,Smartphone,Lutz-Dunn,438.72,687.22,99
+00308,important,Tablet,Thomas Ltd,447.81,649.66,9
+00309,clear,Tablet,Walters Group,302.18,118.41,35
+"00310,federal,Smartphone,""Weber, Thomas and Marshall"",400.71,388.8,91"
+"00311,show,Accessory,""Greer, Smith and Estrada"",474.21,420.67,66"
+00312,computer,Accessory,Moore Ltd,220.55,318.88,49
+"00313,open,Tablet,""Mcdonald, Mason and Richardson"",291.99,195.3,85"
+00314,apply,Laptop,Mejia-Dominguez,483.62,533.45,100
+00315,choose,Tablet,Carpenter-Andrews,446.08,115.21,11
+"00316,hospital,Tablet,""Mueller, Alexander and Holt"",289.4,94.09,94"
+00317,card,Tablet,Miller-Henry,486.81,223.56,91
+00318,put,Smartphone,Barnes-Jones,437.28,369.03,74
+00319,both,Tablet,Wong Inc,492.29,516.29,90
+00320,let,Tablet,Baker Group,251.54,606.82,34
+00321,rich,Accessory,Jackson and Sons,330.29,197.89,74
+00322,treat,Accessory,Jones-Fisher,483.84,267.47,69
+00323,me,Smartphone,Blair-King,236.31,237.75,96
+00324,rise,Laptop,Williams-Murray,162.73,306.36,90
+00325,know,Tablet,Jones Inc,412.83,457.4,89
+00326,letter,Accessory,Foster-Marquez,192.85,367.19,46
+00327,later,Tablet,Braun PLC,55.59,423.67,41
+00328,growth,Laptop,Perez-Butler,173.81,390.87,97
+"00329,section,Tablet,""Schroeder, Carpenter and Blackburn"",85.08,408.98,5"
+"00330,result,Laptop,""Moore, Vasquez and Richardson"",363.0,276.86,86"
+"00331,oil,Smartphone,""Garcia, Malone and Henry"",263.11,215.64,76"
+00332,week,Tablet,Chen-Schwartz,180.55,666.59,57
+00333,per,Tablet,Bright Group,83.6,596.17,69
+00334,area,Laptop,Hutchinson and Sons,478.73,364.17,47
+00335,Republican,Laptop,Willis Group,395.77,311.27,45
+"00336,carry,Accessory,""Brooks, Lopez and Holland"",442.97,158.01,90"
+"00337,particularly,Tablet,""Stevens, Collins and Alvarez"",456.28,576.21,13"
+00338,quality,Accessory,Mueller Ltd,481.34,628.77,100
+00339,fall,Accessory,Rivas and Sons,464.46,675.94,69
+00340,who,Laptop,Reilly and Sons,232.86,465.08,80
+"00341,service,Laptop,""Wells, Vazquez and Johnson"",248.3,197.83,71"
+"00342,far,Tablet,""Reese, Roberts and Williams"",411.08,134.05,99"
+"00343,rest,Accessory,""Dyer, Padilla and Flynn"",314.98,511.64,48"
+00344,everything,Tablet,Arnold-Cook,70.91,609.53,11
+00345,win,Smartphone,Lawrence and Sons,482.62,669.19,21
+00346,scene,Smartphone,Spence-Sherman,421.77,630.09,93
+00347,stop,Laptop,Carroll Ltd,130.19,393.5,38
+00348,tough,Smartphone,Bradley-Baldwin,259.85,164.22,6
+00349,next,Smartphone,Johnson Inc,389.68,667.92,99
+00350,prove,Accessory,Diaz-Rocha,255.64,80.92,45
+"00351,example,Smartphone,""Rivers, Richardson and Park"",288.32,270.71,92"
+"00352,record,Accessory,""Butler, Mcdonald and Mcdonald"",398.82,586.34,95"
+00353,table,Tablet,Barnes PLC,393.74,307.13,42
+00354,serve,Tablet,Wells-Blackwell,80.81,556.53,64
+00355,necessary,Tablet,Raymond-Jones,207.56,482.07,71
+"00356,produce,Tablet,""Olsen, Bowman and Hayes"",52.85,402.35,60"
+"00357,remember,Laptop,""Herrera, Dunn and Montgomery"",223.79,211.42,18"
+00358,inside,Accessory,Castaneda Ltd,300.86,77.99,36
+"00359,wall,Laptop,""Cunningham, Ward and Howe"",349.7,339.1,54"
+"00360,dream,Laptop,""Roman, Valencia and Evans"",277.0,377.11,34"
+00361,age,Laptop,Day-Rivera,332.13,450.44,39
+00362,right,Smartphone,Ford-Orr,334.96,315.25,99
+00363,one,Smartphone,Cummings-Adams,405.76,437.24,99
+00364,ready,Accessory,Mitchell-Murphy,476.9,277.23,29
+"00365,four,Smartphone,""Gordon, Alvarez and Johnson"",317.49,425.01,60"
+00366,ever,Laptop,Kim Ltd,171.5,200.59,52
+00367,skin,Laptop,Arnold LLC,206.33,100.81,24
+"00368,need,Tablet,""Schneider, Fletcher and Garcia"",177.76,651.26,1"
+"00369,machine,Smartphone,""Landry, Parks and Johnson"",379.01,220.23,66"
+"00370,large,Accessory,""Page, Lester and Smith"",221.46,351.63,8"
+00371,always,Smartphone,Cochran-Mckenzie,62.55,625.87,39
+00372,quality,Laptop,Maldonado Group,384.56,584.45,21
+"00373,candidate,Tablet,""Chapman, Cohen and Smith"",100.31,494.16,6"
+00374,weight,Laptop,Simon-Rodriguez,268.44,615.32,58
+00375,as,Smartphone,Petty-Chung,389.13,654.49,76
+00376,generation,Accessory,Ortega-Cabrera,169.49,679.86,39
+00377,issue,Smartphone,Martin-Mata,99.59,155.73,69
+"00378,office,Accessory,""Levine, Bush and Arnold"",345.35,524.32,50"
+"00379,his,Tablet,""Austin, Cuevas and Webb"",356.47,692.24,23"
+00380,city,Accessory,Hopkins LLC,62.45,91.23,67
+"00381,impact,Accessory,""Fox, Warren and Hines"",360.02,288.46,22"
+00382,product,Smartphone,Parker PLC,107.73,391.98,28
+"00383,law,Tablet,""Moore, Esparza and Jackson"",138.34,551.24,35"
+00384,woman,Smartphone,Harris-Hurley,201.59,330.43,26
+"00385,that,Accessory,""Harris, Arnold and Ruiz"",499.5,235.43,10"
+"00386,animal,Smartphone,""Murphy, Lee and Alvarado"",354.61,217.06,10"
+00387,group,Tablet,Perez-Miller,286.13,559.09,19
+00388,such,Smartphone,Crawford-Romero,56.69,302.46,75
+00389,cover,Tablet,Munoz-Grant,121.58,378.69,31
+"00390,two,Tablet,""Dennis, Archer and Ferguson"",393.92,655.44,34"
+"00391,economy,Laptop,""Kaufman, Potter and Simmons"",428.71,678.73,17"
+00392,or,Accessory,Gray-Juarez,269.7,405.07,35
+00393,color,Accessory,Lee-Gross,366.86,103.81,91
+"00394,phone,Tablet,""Nelson, Singleton and Copeland"",186.0,374.5,8"
+"00395,from,Smartphone,""Edwards, Andrews and Hanna"",95.65,484.2,61"
+00396,write,Tablet,Harris Group,98.23,572.63,91
+00397,condition,Smartphone,Harris Inc,213.22,591.49,6
+"00398,can,Smartphone,""Henson, Pace and Johnson"",236.43,494.1,87"
+00399,themselves,Tablet,Mercer Group,409.37,272.17,86
+00400,never,Smartphone,Noble-Calderon,199.71,79.27,62
+00401,other,Laptop,Cohen Ltd,315.46,493.06,52
+00402,common,Accessory,Smith Group,243.65,398.7,47
+00403,thank,Accessory,Rangel-Green,93.38,685.03,41
+"00404,officer,Accessory,""Riley, Larson and Dickson"",393.04,629.56,69"
+00405,north,Accessory,Caldwell-Chan,426.17,428.59,80
+"00406,pretty,Laptop,""Parks, Henderson and Reyes"",340.97,96.58,63"
+00407,number,Laptop,Lewis-Christensen,210.1,68.64,83
+00408,office,Smartphone,Martinez-Hart,320.07,535.47,34
+00409,necessary,Accessory,Brennan-Figueroa,463.39,93.22,20
+"00410,entire,Accessory,""Scott, Kelly and Grant"",136.19,303.23,68"
+00411,lead,Tablet,Garcia LLC,400.99,97.15,69
+00412,democratic,Tablet,Clark PLC,335.48,381.55,20
+"00413,worry,Smartphone,""Perez, Terry and Lewis"",115.74,284.4,15"
+00414,current,Smartphone,Gutierrez Inc,308.52,606.54,45
+00415,baby,Laptop,Martin and Sons,324.67,117.24,73
+"00416,approach,Laptop,""Yates, Phillips and Bradley"",434.41,347.41,85"
+00417,cultural,Tablet,Barron Inc,433.92,623.46,87
+00418,audience,Laptop,Green-Potter,51.1,436.75,69
+00419,animal,Accessory,Russell Inc,239.44,79.89,40
+00420,mind,Laptop,Wagner-Miller,220.44,659.33,20
+00421,material,Accessory,Green Inc,380.43,428.74,10
+00422,store,Accessory,Woodard Group,90.73,620.79,87
+00423,matter,Tablet,Lopez-Garcia,50.65,127.81,6
+"00424,image,Laptop,""Powell, Fisher and Moore"",161.25,649.81,100"
+00425,ten,Smartphone,Anderson-Patel,329.03,131.66,98
+"00426,industry,Accessory,""Guzman, Weber and Doyle"",333.58,382.32,65"
+00427,during,Laptop,Hester Group,175.88,292.14,66
+00428,reach,Tablet,Schmidt LLC,154.88,536.71,52
+00429,guy,Smartphone,Riley-Flores,422.37,321.24,34
+"00430,job,Smartphone,""Bennett, White and Vega"",274.38,540.49,15"
+00431,hard,Smartphone,Henson-Bray,460.65,93.7,81
+"00432,reality,Laptop,""Noble, Johnson and Woods"",54.8,313.71,83"
+00433,myself,Tablet,Perry-Simmons,281.85,642.07,55
+00434,record,Laptop,Young-Shaffer,413.98,79.48,52
+"00435,light,Accessory,""Reyes, Young and Bell"",282.68,453.29,100"
+00436,course,Laptop,Thomas Group,453.76,243.11,80
+"00437,site,Accessory,""Brady, Vargas and Smith"",368.93,501.09,92"
+"00438,visit,Smartphone,""Richardson, Hernandez and Frederick"",268.59,504.31,82"
+"00439,which,Smartphone,""Fletcher, Owens and Green"",131.39,525.99,68"
+"00440,hope,Laptop,""Baker, Gross and Miller"",342.29,518.4,47"
+00441,case,Accessory,Kennedy-Molina,182.5,544.16,91
+00442,seven,Tablet,Fisher Inc,453.49,264.68,31
+00443,hand,Tablet,Bass PLC,263.39,546.29,81
+"00444,society,Accessory,""Murray, Keith and Moore"",229.0,392.7,16"
+00445,cost,Laptop,Lopez-Gibson,189.4,294.18,40
+00446,garden,Tablet,Smith and Sons,322.69,65.5,28
+00447,she,Accessory,Howard and Sons,402.12,406.9,82
+"00448,part,Accessory,""Young, Smith and Archer"",187.69,163.12,90"
+"00449,possible,Laptop,""Martin, Reilly and Kramer"",398.08,504.07,40"
+"00450,truth,Smartphone,""Cruz, Moore and Olson"",221.98,190.82,36"
+00451,concern,Tablet,Walker PLC,269.59,465.3,23
+00452,push,Laptop,Kim-Hamilton,427.19,431.39,27
+00453,purpose,Accessory,Evans-Moore,121.67,205.0,73
+"00454,yeah,Tablet,""Miranda, Matthews and Garcia"",283.25,299.44,33"
+00455,suffer,Tablet,Anderson Inc,237.38,654.89,23
+00456,nor,Laptop,Patterson-Brown,99.21,163.51,74
+00457,hot,Laptop,Bond-White,179.55,232.09,45
+00458,surface,Tablet,Ross-Ortiz,158.58,520.45,46
+"00459,law,Smartphone,""Hoover, White and Martinez"",385.99,178.33,33"
+00460,enough,Smartphone,Hale PLC,242.09,399.65,6
+00461,power,Smartphone,Castillo-Bernard,216.71,648.14,75
+"00462,address,Smartphone,""Garcia, Liu and Reynolds"",437.47,160.5,71"
+00463,parent,Smartphone,Malone-Baker,205.98,167.21,42
+00464,degree,Tablet,Lee Group,182.4,692.59,85
+00465,far,Laptop,Stevens and Sons,281.11,436.25,47
+00466,window,Tablet,Ramirez-Hall,161.63,518.24,55
+00467,establish,Tablet,Johnson LLC,220.89,165.54,44
+00468,news,Tablet,Costa Group,88.0,92.98,8
+"00469,doctor,Tablet,""Murphy, Collins and Duke"",382.28,308.25,95"
+"00470,Congress,Smartphone,""Baker, Lee and Pugh"",261.98,477.63,70"
+00471,wish,Tablet,Willis Inc,160.35,172.03,37
+"00472,pressure,Smartphone,""Torres, Rhodes and Martin"",264.76,582.83,98"
+00473,color,Tablet,Flowers-Moody,360.48,595.85,76
+"00474,hotel,Laptop,""Ballard, Wallace and Davis"",322.2,493.45,70"
+"00475,him,Tablet,""Wilson, Howard and Clay"",220.63,212.49,92"
+00476,important,Accessory,Hernandez-Phillips,397.55,237.38,58
+00477,serve,Accessory,Anderson-Sanchez,281.93,165.62,70
+00478,commercial,Tablet,King and Sons,198.41,195.15,66
+"00479,approach,Laptop,""Schmidt, Fox and Schwartz"",483.54,227.18,64"
+"00480,dinner,Tablet,""Andersen, Torres and Brock"",494.38,386.25,39"
+00481,many,Accessory,Hale-Wells,183.09,344.74,81
+"00482,commercial,Accessory,""Chan, Moore and Henry"",439.28,360.87,61"
+00483,often,Accessory,Brown Inc,92.06,318.62,97
+00484,interest,Laptop,Hartman Group,56.2,87.23,0
+00485,word,Accessory,Webster LLC,473.4,540.62,88
+"00486,production,Laptop,""Patterson, Patrick and Willis"",156.89,269.08,13"
+00487,exist,Smartphone,Gray-Kelly,372.75,121.41,15
+"00488,sense,Laptop,""Ward, Miller and Vazquez"",425.77,655.0,41"
+"00489,school,Accessory,""Lee, Buck and Williams"",457.86,469.99,37"
+"00490,health,Laptop,""Freeman, Aguilar and Dougherty"",308.31,450.95,19"
+00491,nearly,Tablet,Moore PLC,253.55,101.97,62
+00492,today,Tablet,Lee LLC,64.4,117.46,32
+"00493,choice,Smartphone,""Murphy, Campbell and Colon"",138.1,495.92,55"
+00494,call,Accessory,Jones-Gibson,83.32,88.29,27
+00495,base,Tablet,Rice-Gardner,148.5,223.91,35
+00496,sing,Laptop,Alexander Inc,370.98,269.65,21
+"00497,common,Tablet,""Burgess, Macias and Lucas"",75.38,651.04,81"
+00498,season,Laptop,Bradshaw Ltd,185.88,582.86,54
+"00499,week,Tablet,""Lee, Hayes and King"",256.04,505.75,74"
+00500,none,Smartphone,Hawkins Ltd,421.49,178.54,93
+00501,important,Laptop,Jones and Sons,347.99,169.39,44
+"00502,to,Accessory,""Smith, Ibarra and Lopez"",439.93,160.1,55"
+00503,color,Laptop,Dalton-Crawford,204.99,502.39,79
+00504,per,Accessory,Hall Group,431.37,340.97,35
+00505,seat,Laptop,Koch Inc,296.56,467.3,23
+00506,student,Laptop,Walker-Salazar,269.66,403.26,19
+00507,use,Smartphone,Simon-Day,331.73,387.4,98
+00508,there,Laptop,Jackson-Roman,61.43,342.51,39
+00509,share,Accessory,Stanley PLC,465.35,183.72,35
+00510,brother,Tablet,Warren-Morton,83.11,119.58,71
+"00511,happen,Tablet,""Davila, Singleton and Irwin"",166.17,348.38,99"
+00512,process,Laptop,Pope Inc,237.52,308.33,46
+00513,western,Tablet,Becker Ltd,96.53,463.29,11
+00514,decade,Smartphone,Young-Anderson,439.39,138.6,60
+00515,provide,Laptop,Mcbride and Sons,119.59,636.84,75
+00516,mother,Laptop,Mcdonald-Bonilla,306.74,155.34,93
+00517,speech,Tablet,Wilkinson-Parker,73.72,684.91,55
+00518,expert,Smartphone,Jackson-Mcgrath,327.71,629.5,17
+"00519,opportunity,Tablet,""Phillips, Thompson and Jefferson"",115.02,328.71,96"
+00520,child,Smartphone,Daniels Group,274.52,600.15,19
+"00521,scene,Accessory,""Norman, Carlson and Hoover"",284.24,663.44,36"
+00522,seek,Tablet,Newman-Watson,415.17,405.02,36
+00523,very,Tablet,Lambert-Garcia,316.98,266.23,79
+00524,reveal,Tablet,Boyd and Sons,350.95,499.88,88
+"00525,unit,Tablet,""Williams, Mcdonald and Sullivan"",103.29,603.69,16"
+"00526,run,Accessory,""King, Smith and Johnson"",442.3,134.66,8"
+"00527,quite,Laptop,""Carroll, Kelley and Barton"",410.77,164.13,88"
+00528,these,Laptop,Reeves-Fisher,180.09,251.43,58
+00529,exist,Tablet,Henderson-Lowe,394.84,139.79,53
+00530,deal,Laptop,Miller-White,400.7,505.68,52
+00531,last,Smartphone,Molina PLC,70.82,686.6,61
+00532,past,Laptop,Martin-Flores,219.33,326.0,22
+"00533,radio,Laptop,""Gray, Porter and Smith"",258.63,497.73,44"
+00534,same,Smartphone,Cruz-Bolton,210.28,127.04,89
+"00535,traditional,Accessory,""Kennedy, Short and Russell"",346.79,407.79,97"
+00536,national,Accessory,Gonzalez-Rodriguez,256.31,106.22,63
+00537,explain,Tablet,Olsen-Douglas,261.17,331.56,49
+"00538,serious,Accessory,""Young, Guerrero and Caldwell"",203.35,415.53,38"
+00539,ground,Accessory,Perez LLC,348.49,609.65,51
+"00540,protect,Tablet,""Carter, Hunter and Stuart"",373.58,309.25,43"
+00541,hundred,Accessory,Davis Ltd,271.57,336.74,54
+00542,simply,Tablet,Gray-Chung,463.66,65.5,25
+00543,month,Laptop,Hernandez LLC,112.35,89.82,18
+00544,window,Smartphone,Thomas Group,447.16,63.44,78
+00545,score,Accessory,Kramer LLC,429.69,309.7,76
+00546,guess,Smartphone,Mccann LLC,247.29,350.46,60
+00547,western,Tablet,Powell-Hahn,51.84,268.33,37
+00548,authority,Laptop,Maxwell-Nunez,141.22,237.43,96
+00549,draw,Accessory,Henderson LLC,116.15,211.93,67
+00550,most,Smartphone,Arnold Ltd,456.86,146.42,3
+"00551,outside,Tablet,""Garcia, Todd and Madden"",55.25,519.91,86"
+00552,wait,Accessory,Hayden-Ray,247.77,149.43,91
+00553,maintain,Accessory,Berg-Snow,479.86,638.57,44
+"00554,leave,Laptop,""Mccarthy, Smith and Zavala"",306.67,282.25,76"
+00555,again,Laptop,Clark-Brown,445.17,125.1,31
+"00556,music,Smartphone,""Mcdonald, Farley and Macdonald"",496.31,148.54,42"
+00557,yes,Tablet,Baker-Clark,304.4,191.46,68
+"00558,over,Laptop,""White, Bullock and Wilson"",125.15,499.15,88"
+00559,everyone,Tablet,Stark Ltd,132.59,665.56,76
+00560,keep,Accessory,Parsons-Price,336.39,364.34,29
+00561,whose,Laptop,Good LLC,64.36,481.23,34
+00562,customer,Tablet,Bowman PLC,93.87,567.93,92
+"00563,tend,Accessory,""Hawkins, Moss and Williams"",307.81,388.06,43"
+00564,particularly,Tablet,Fernandez-Blevins,387.15,168.87,36
+"00565,enter,Accessory,""Stone, Mays and Williams"",108.04,341.38,37"
+00566,there,Smartphone,Contreras-Watson,50.99,372.48,32
+00567,city,Accessory,Ferguson-Green,301.7,569.83,9
+00568,many,Laptop,Carlson Ltd,376.9,646.72,96
+00569,analysis,Laptop,Jones-Miller,337.25,107.25,46
+"00570,majority,Accessory,""Freeman, Mullins and Parker"",370.19,225.48,65"
+00571,these,Laptop,Finley-Dodson,434.71,184.27,26
+"00572,answer,Laptop,""Walker, Wright and Flores"",97.87,381.01,6"
+00573,learn,Tablet,Cooper-Davis,275.35,248.9,91
+"00574,arrive,Laptop,""May, Gray and Baker"",179.74,444.6,80"
+00575,generation,Laptop,Garcia-Williams,355.14,526.51,3
+"00576,attorney,Smartphone,""Johnson, Black and Richardson"",144.24,123.96,81"
+00577,small,Laptop,Atkins-Wade,261.04,316.34,28
+00578,good,Laptop,Ramirez-Dudley,372.96,346.27,23
+00579,condition,Laptop,Young-Chandler,448.2,375.65,0
+00580,speak,Tablet,Callahan-Kennedy,318.09,319.5,59
+"00581,institution,Laptop,""Ashley, Ware and Jones"",268.6,628.65,12"
+00582,create,Tablet,Harper-Johnston,407.99,203.32,92
+00583,choice,Smartphone,Mcgrath-Jackson,188.33,425.75,77
+00584,year,Laptop,Williams PLC,145.58,197.01,40
+00585,range,Tablet,Hudson PLC,459.57,478.72,9
+"00586,person,Smartphone,""Lawrence, Henry and Hernandez"",434.41,611.76,57"
+"00587,blood,Tablet,""Robinson, Santos and Gonzalez"",273.52,146.21,17"
+00588,herself,Laptop,Peterson LLC,325.54,127.61,31
+00589,beat,Smartphone,Kelly-Harris,144.02,507.27,61
+00590,kind,Tablet,Gray-Rodriguez,175.3,230.76,6
+00591,wonder,Smartphone,Jones-Fisher,400.32,163.92,15
+00592,late,Tablet,Miller Inc,223.04,479.27,69
+00593,follow,Accessory,Leon-Davis,446.46,538.98,89
+00594,key,Laptop,West Inc,167.05,588.48,77
+00595,way,Tablet,Riley-Wright,84.33,326.99,14
+"00596,probably,Laptop,""Wilson, Carrillo and Horton"",464.58,517.28,5"
+00597,loss,Accessory,Schmitt LLC,405.42,174.32,9
+"00598,agent,Accessory,""Sanchez, Gilbert and Mckenzie"",314.38,138.42,38"
+00599,director,Smartphone,Rodriguez PLC,113.57,110.79,100
+00600,end,Laptop,Mitchell-Clark,420.66,558.0,94
+00601,building,Accessory,Herrera Ltd,468.65,298.86,65
+00602,organization,Accessory,Gonzales Group,132.67,476.82,58
+00603,conference,Smartphone,Castillo PLC,237.89,543.96,28
+00604,thus,Smartphone,Mason-Edwards,470.64,583.53,80
+00605,space,Laptop,Adams LLC,368.95,687.04,25
+"00606,role,Tablet,""Wagner, Franklin and Miller"",455.14,70.3,67"
+00607,guess,Accessory,Hughes-Rodgers,350.68,192.75,87
+00608,its,Tablet,Lopez-Murillo,334.25,302.75,68
+00609,five,Tablet,Hoffman Ltd,250.09,332.98,81
+00610,vote,Smartphone,Rogers-Cannon,241.31,217.27,52
+00611,guess,Smartphone,Davenport-Love,175.64,334.47,30
+00612,animal,Tablet,Sanders-Rogers,60.63,548.45,82
+"00613,of,Tablet,""May, Cruz and Harrell"",150.27,329.42,9"
+"00614,ability,Accessory,""Austin, Douglas and Nolan"",484.81,245.26,55"
+00615,home,Smartphone,Kaufman-Ford,116.74,384.63,72
+00616,certain,Accessory,Sullivan-Dominguez,450.4,275.9,100
+"00617,Democrat,Smartphone,""Collins, Hays and Downs"",218.39,72.53,72"
+00618,edge,Accessory,Ortega-Scott,468.27,252.63,78
+00619,activity,Tablet,Novak Ltd,69.57,145.3,27
+00620,safe,Accessory,Smith-Francis,285.98,101.87,48
+00621,should,Accessory,Ballard-Hale,250.76,329.28,36
+00622,physical,Smartphone,Ryan-Rodriguez,122.11,430.8,30
+"00623,property,Laptop,""Sullivan, Wilson and Andrade"",497.13,431.73,74"
+00624,whether,Smartphone,Jones-Castro,66.26,617.3,53
+"00625,network,Laptop,""Wheeler, French and Jackson"",430.09,694.58,81"
+00626,know,Tablet,Ewing Group,392.3,456.52,82
+00627,old,Smartphone,Lopez Ltd,428.67,372.09,31
+00628,world,Laptop,Dorsey-Mccarty,469.35,609.13,92
+"00629,worry,Tablet,""Dixon, Cruz and Gonzalez"",249.34,217.22,64"
+00630,move,Tablet,Brown-Washington,446.13,67.73,60
+00631,even,Laptop,Hill PLC,405.92,675.86,91
+00632,three,Smartphone,Petersen Ltd,102.64,653.25,82
+"00633,how,Laptop,""Duarte, Adkins and Garrett"",247.65,608.91,86"
+"00634,fund,Smartphone,""Curtis, Johnston and Hill"",321.17,652.22,96"
+"00635,everything,Laptop,""Warner, Perry and Roberts"",280.94,93.72,16"
+00636,perhaps,Laptop,Barnes-Garcia,380.85,644.4,57
+"00637,walk,Accessory,""Lee, Hammond and Mcdonald"",247.51,170.84,9"
+00638,value,Tablet,Buchanan-Munoz,348.26,252.56,26
+00639,skin,Tablet,Wang LLC,111.61,116.05,66
+"00640,night,Smartphone,""Klein, Morris and Robertson"",410.11,661.56,45"
+00641,hit,Tablet,Brown and Sons,367.83,663.66,39
+00642,enjoy,Tablet,Contreras Group,498.15,232.89,92
+00643,left,Tablet,Becker-Mcfarland,380.37,199.94,25
+00644,keep,Tablet,Juarez Inc,328.2,475.14,67
+00645,should,Accessory,Clarke-Brown,454.8,649.83,1
+00646,any,Smartphone,Phillips-Walker,401.76,201.82,49
+00647,by,Laptop,Brown-Williams,169.84,434.21,57
+00648,scene,Smartphone,Bridges and Sons,303.62,269.25,41
+00649,morning,Accessory,Mcclain-Wilson,360.06,196.57,64
+"00650,maybe,Smartphone,""Stewart, Hammond and Walker"",366.91,516.04,61"
+00651,head,Accessory,Evans-Braun,487.48,554.03,45
+"00652,consumer,Tablet,""Reyes, Myers and Herrera"",409.58,66.75,44"
+"00653,hand,Tablet,""Colon, Wagner and Hill"",76.41,237.08,33"
+00654,whom,Tablet,Kennedy and Sons,334.16,235.17,30
+"00655,at,Accessory,""Owens, Wilson and Blackwell"",148.15,654.05,76"
+"00656,adult,Smartphone,""Parker, Jones and Scott"",492.7,544.1,46"
+00657,hundred,Tablet,Graves-Tyler,239.73,174.89,28
+00658,case,Accessory,Bartlett Inc,216.7,342.33,78
+00659,yard,Tablet,Fritz PLC,150.04,354.01,90
+00660,activity,Laptop,Owens-Johnson,88.61,687.52,22
+"00661,notice,Smartphone,""Bradshaw, Brown and Welch"",256.06,569.32,20"
+00662,standard,Tablet,Harris LLC,301.19,212.54,100
+00663,knowledge,Accessory,Meyer-Rose,124.59,670.04,17
+"00664,live,Accessory,""Stevens, Russell and Navarro"",67.64,670.4,39"
+"00665,election,Smartphone,""Jordan, Christensen and Cooper"",242.87,423.84,0"
+"00666,wonder,Tablet,""Moore, Macdonald and Quinn"",496.39,227.95,4"
+00667,out,Smartphone,Evans Group,66.64,347.27,10
+00668,support,Smartphone,Long Group,388.89,492.86,23
+00669,adult,Laptop,Torres PLC,87.38,84.05,93
+00670,two,Accessory,Ballard-Solomon,233.13,666.51,69
+00671,image,Accessory,Carson-Hernandez,204.65,377.81,19
+00672,fact,Laptop,Thomas-Turner,482.46,587.37,49
+00673,likely,Laptop,Tate Inc,211.29,69.17,54
+00674,project,Smartphone,Stephens-Butler,393.08,258.54,45
+00675,write,Laptop,Reyes and Sons,216.61,135.05,89
+00676,film,Accessory,Cummings-Bolton,430.08,279.06,73
+00677,her,Smartphone,Allen and Sons,253.08,647.58,20
+"00678,road,Laptop,""Mcdowell, Miller and Brown"",277.19,667.38,26"
+00679,interesting,Accessory,Jennings LLC,340.7,683.99,43
+00680,similar,Laptop,Obrien-Hale,390.34,250.99,90
+00681,race,Tablet,Small-Anthony,373.08,363.76,75
+"00682,effect,Laptop,""Young, Robinson and Walter"",50.81,205.15,15"
+00683,spring,Tablet,Palmer-Elliott,194.14,551.37,7
+00684,girl,Tablet,Buckley PLC,149.45,136.01,87
+00685,group,Laptop,Hayes-Rodriguez,261.57,501.64,74
+00686,ago,Accessory,Chan-Salinas,85.89,589.83,50
+"00687,involve,Smartphone,""Allison, Anderson and Reeves"",263.13,623.21,78"
+00688,money,Accessory,Spence Ltd,350.24,132.52,56
+"00689,green,Smartphone,""Hernandez, Phillips and Oneill"",405.55,536.83,65"
+00690,yourself,Tablet,Mckee and Sons,192.19,372.73,22
+00691,card,Smartphone,Ramsey Group,367.86,79.86,61
+00692,discover,Smartphone,Brown-Rodriguez,64.2,369.77,21
+00693,certain,Laptop,Hall and Sons,314.06,552.57,88
+00694,stuff,Laptop,Love LLC,210.43,88.92,9
+00695,sound,Accessory,Davis-Nelson,156.79,174.24,78
+00696,teach,Accessory,Miller-Rodriguez,340.4,413.01,62
+00697,ball,Accessory,York Inc,98.94,675.62,35
+00698,challenge,Laptop,Palmer LLC,173.6,119.1,3
+00699,my,Laptop,Miller-Landry,70.39,235.31,26
+00700,at,Tablet,Brown-Myers,486.56,683.38,49
+"00701,far,Smartphone,""Lopez, Mason and Jackson"",495.78,117.31,47"
+"00702,trial,Smartphone,""Webb, Mason and Singh"",89.58,60.41,87"
+00703,mission,Laptop,Watkins-Reese,433.11,345.85,89
+00704,tax,Accessory,Rollins and Sons,240.33,385.36,60
+00705,fire,Laptop,Lee Ltd,425.86,333.7,45
+00706,pick,Accessory,Pineda-Jacobs,308.47,557.59,49
+"00707,man,Tablet,""Kim, Ortega and Obrien"",272.25,530.9,97"
+00708,record,Laptop,Lambert PLC,160.59,606.47,41
+"00709,need,Smartphone,""Hodge, Rose and Robertson"",117.68,331.16,91"
+00710,while,Smartphone,Warren Ltd,471.0,223.74,6
+00711,better,Tablet,Smith PLC,269.37,226.25,60
+"00712,page,Tablet,""Hughes, Jones and Price"",474.21,174.39,14"
+00713,decision,Tablet,Huang-Forbes,487.93,509.17,40
+00714,feel,Smartphone,Johnson Group,452.77,268.32,82
+00715,police,Laptop,Day-Scott,360.33,681.2,43
+00716,hot,Tablet,Coleman and Sons,314.51,570.15,98
+"00717,short,Laptop,""Webb, Arias and Lewis"",78.0,453.15,33"
+00718,budget,Smartphone,Banks Ltd,410.23,377.85,62
+00719,five,Laptop,Stone Ltd,113.24,340.74,7
+00720,team,Smartphone,Morris LLC,263.3,333.37,74
+00721,choose,Laptop,Quinn-Bowen,466.69,376.56,45
+00722,save,Accessory,Estrada and Sons,434.81,214.53,72
+00723,economy,Tablet,Brennan-Benjamin,64.59,183.67,25
+00724,which,Laptop,Sanchez and Sons,333.28,646.47,66
+00725,majority,Tablet,Barton Ltd,92.83,305.33,34
+00726,paper,Accessory,Jones LLC,451.55,228.83,25
+00727,religious,Smartphone,Rasmussen LLC,200.54,635.18,54
+00728,seven,Accessory,Miller and Sons,437.67,176.81,95
+00729,defense,Accessory,Gomez Inc,177.22,224.15,72
+00730,PM,Laptop,Jones and Sons,296.14,559.79,81
+00731,certain,Laptop,Rogers-Kirby,230.82,459.52,89
+"00732,step,Tablet,""Stewart, Knox and Ball"",355.21,168.08,13"
+"00733,evidence,Accessory,""Fitzgerald, Grant and Anderson"",250.59,96.26,59"
+00734,bar,Smartphone,Thomas-Grant,226.01,221.45,73
+00735,chair,Tablet,Burnett Inc,471.53,664.38,67
+00736,reflect,Accessory,Stewart-Johnson,437.32,200.12,75
+00737,pressure,Tablet,Willis Inc,221.32,557.14,50
+"00738,provide,Accessory,""Lynch, Pena and Ward"",493.25,649.09,35"
+00739,most,Tablet,Wade PLC,247.5,438.87,83
+00740,fill,Accessory,Spears and Sons,385.14,679.13,41
+00741,project,Tablet,Wolfe-Bradford,422.57,345.17,87
+00742,when,Smartphone,Garrett-Norton,239.74,113.31,44
+"00743,list,Accessory,""Bauer, Conner and Peterson"",376.03,88.53,38"
+00744,tonight,Accessory,Dickerson and Sons,445.24,424.02,21
+00745,possible,Smartphone,Ramirez Inc,380.89,236.35,18
+00746,talk,Laptop,Williams-Hayden,162.99,422.15,99
+"00747,strong,Laptop,""Buckley, Brown and Dunn"",140.36,691.42,99"
+"00748,adult,Accessory,""Wallace, Miller and Mcbride"",279.38,541.38,35"
+"00749,apply,Laptop,""Page, Poole and Armstrong"",66.65,335.22,49"
+00750,public,Smartphone,Jones Inc,484.04,456.16,85
+00751,case,Accessory,Powers Ltd,176.5,471.85,48
+00752,foot,Laptop,Young-Rosales,297.73,285.79,56
+00753,report,Smartphone,Yoder-Valdez,466.98,346.41,95
+00754,grow,Tablet,Thomas-Anderson,327.39,142.21,3
+00755,improve,Accessory,Valentine PLC,493.32,202.49,40
+00756,reflect,Laptop,Frost-Lee,261.73,125.94,1
+00757,party,Accessory,Terrell-Carey,377.97,294.64,15
+"00758,design,Smartphone,""Guerra, Cooke and Lewis"",414.48,317.39,59"
+00759,information,Accessory,Bryant-Boyd,81.94,492.64,36
+00760,player,Laptop,Wiggins-Scott,346.84,155.29,67
+00761,most,Tablet,Griffin Group,354.19,571.87,68
+00762,usually,Tablet,Cabrera and Sons,428.46,379.77,23
+00763,determine,Accessory,Lewis-Jones,354.8,96.2,4
+00764,moment,Laptop,Randall Ltd,233.04,145.95,79
+"00765,view,Tablet,""Casey, Cantu and Torres"",289.25,684.77,39"
+"00766,bring,Smartphone,""Wolfe, Brown and Mack"",156.99,621.06,2"
+00767,including,Accessory,Walker and Sons,122.1,503.16,89
+"00768,threat,Tablet,""Davis, Sutton and Rasmussen"",256.6,502.0,68"
+00769,policy,Laptop,Mitchell-Ramos,322.81,160.11,66
+00770,happen,Laptop,Lutz Group,267.25,322.32,62
+00771,many,Accessory,Boone PLC,85.77,692.72,56
+00772,TV,Accessory,Le LLC,456.07,314.97,96
+"00773,hear,Tablet,""Young, Rodriguez and Martin"",138.29,365.49,58"
+00774,expert,Smartphone,Spencer-Barnes,310.67,224.24,4
+00775,air,Smartphone,Turner-Dominguez,469.03,628.61,40
+00776,whom,Accessory,Buchanan-Lawson,182.37,60.91,87
+00777,better,Accessory,Friedman Ltd,100.86,114.72,18
+00778,writer,Smartphone,Harper-Rush,462.45,361.11,72
+00779,former,Accessory,Mccoy Ltd,138.72,384.35,71
+00780,despite,Accessory,Wyatt-Mahoney,119.25,99.98,96
+00781,wife,Laptop,Campos LLC,163.96,311.06,25
+"00782,future,Tablet,""Duarte, Ponce and Davis"",281.38,442.22,35"
+"00783,without,Tablet,""Fuller, Le and Hartman"",150.38,369.18,74"
+00784,art,Smartphone,Williams Ltd,395.75,395.22,39
+00785,build,Tablet,Kelly and Sons,52.92,187.53,33
+00786,camera,Smartphone,Peterson-Hicks,72.56,382.03,53
+"00787,there,Tablet,""Macias, Morris and Farmer"",141.05,607.4,3"
+00788,home,Accessory,May Inc,99.81,294.43,21
+00789,hard,Laptop,Moore PLC,438.3,672.48,75
+00790,guess,Laptop,Armstrong LLC,256.29,534.79,56
+"00791,store,Smartphone,""Hill, Douglas and Washington"",385.09,212.58,6"
+00792,draw,Tablet,Sosa-Wilson,287.47,116.71,7
+"00793,under,Laptop,""Davis, Davis and Harris"",76.63,66.83,71"
+"00794,recent,Smartphone,""Carter, Lopez and Griffith"",262.51,519.72,70"
+00795,similar,Laptop,Bird-Dunn,340.53,309.11,64
+00796,various,Tablet,Alexander LLC,147.56,120.32,78
+00797,kind,Smartphone,Martin PLC,278.84,167.68,97
+00798,wait,Accessory,Rodriguez Group,98.27,564.74,33
+00799,peace,Smartphone,Martinez and Sons,300.62,86.54,94
+"00800,trip,Tablet,""Hudson, Perez and Peterson"",498.61,404.92,9"
+"00801,business,Accessory,""Bowers, Smith and Morris"",120.73,443.91,94"
+00802,total,Laptop,Gomez LLC,393.18,181.71,23
+00803,use,Laptop,Weber PLC,249.88,630.21,77
+"00804,later,Tablet,""Jackson, Martin and Hansen"",310.76,132.75,42"
+"00805,see,Accessory,""Cunningham, Williams and Howard"",257.5,672.68,84"
+00806,bar,Tablet,Jackson-York,262.96,454.06,13
+"00807,view,Smartphone,""Wall, Rodriguez and Schneider"",486.69,118.97,64"
+"00808,partner,Accessory,""Rios, Hall and Smith"",228.55,419.51,67"
+00809,data,Smartphone,Clarke LLC,338.45,165.25,36
+"00810,measure,Smartphone,""Hudson, Smith and Reyes"",240.1,692.34,91"
+"00811,specific,Laptop,""Thomas, Henry and Byrd"",239.92,693.3,84"
+00812,allow,Accessory,Schwartz-Craig,340.18,627.74,94
+"00813,just,Tablet,""Harris, King and Gross"",302.46,536.13,6"
+00814,peace,Laptop,Ayala-Henderson,323.2,691.91,30
+00815,central,Accessory,Rangel Ltd,184.49,447.97,42
+"00816,cut,Accessory,""Haley, Rich and Pena"",279.44,60.17,61"
+"00817,national,Accessory,""Solis, Ramirez and Ochoa"",431.52,659.16,51"
+00818,bad,Laptop,Garcia-Rodriguez,236.28,79.97,44
+"00819,professional,Laptop,""Mckinney, Horton and Morris"",211.82,633.96,51"
+"00820,federal,Smartphone,""Rose, Kelley and Randall"",270.39,276.37,22"
+"00821,participant,Tablet,""Mcclain, Kennedy and Fields"",391.12,407.76,4"
+"00822,wide,Smartphone,""Watts, Gonzales and Hernandez"",403.22,477.74,94"
+00823,center,Smartphone,Stout and Sons,144.58,542.67,82
+"00824,couple,Smartphone,""Lewis, Fisher and Gates"",366.2,504.99,64"
+00825,green,Tablet,Friedman LLC,118.55,378.56,47
+"00826,weight,Laptop,""Garrett, Blake and Burton"",399.59,282.19,32"
+00827,become,Smartphone,Rice Ltd,287.99,234.0,49
+"00828,process,Smartphone,""Campos, Simon and Brown"",51.05,316.46,98"
+00829,get,Accessory,Combs-Rose,173.65,303.89,58
+00830,remember,Smartphone,Ramirez PLC,310.58,210.82,18
+"00831,impact,Tablet,""Nelson, Bailey and Rice"",327.54,191.7,32"
+00832,two,Accessory,Solis Inc,243.4,586.67,27
+00833,music,Tablet,Fox-Wall,409.39,178.08,42
+00834,election,Laptop,Mcdaniel-Jimenez,195.39,506.16,27
+00835,recent,Accessory,Morris-Graves,103.87,454.99,68
+"00836,any,Laptop,""Norman, Sweeney and Howard"",144.92,116.36,82"
+00837,before,Smartphone,Pugh PLC,392.86,582.21,59
+"00838,gas,Smartphone,""Washington, Brady and Long"",187.11,550.27,20"
+00839,trouble,Smartphone,Green-Moore,278.69,229.7,2
+00840,all,Smartphone,Vaughn PLC,236.26,648.4,27
+"00841,expect,Laptop,""Hardin, Pittman and Reed"",312.78,317.28,0"
+00842,should,Smartphone,Young LLC,134.06,187.27,78
+"00843,effect,Tablet,""Turner, Hood and Robinson"",66.69,167.03,92"
+00844,hotel,Laptop,Ryan and Sons,206.13,433.65,94
+"00845,book,Laptop,""Sullivan, Delacruz and Wilcox"",205.16,599.36,53"
+"00846,raise,Accessory,""Weber, Freeman and Johnson"",90.1,332.91,64"
+00847,make,Accessory,Edwards-Marsh,96.49,183.39,75
+00848,young,Laptop,Hardy-Clark,436.7,121.66,79
+"00849,card,Laptop,""Pierce, Chase and Hardy"",375.87,485.19,71"
+00850,build,Laptop,Torres LLC,278.8,334.01,100
+"00851,understand,Accessory,""Navarro, Campos and Wallace"",288.43,452.79,40"
+00852,organization,Laptop,Richards-Perez,439.34,242.71,10
+00853,know,Accessory,Wallace-Smith,225.81,279.54,84
+00854,theory,Laptop,Williamson-Mosley,238.96,215.66,64
+00855,everyone,Tablet,Smith-Walters,410.42,437.26,76
+00856,your,Tablet,Anderson Group,61.58,192.05,20
+00857,difference,Laptop,Thomas-Wolf,59.43,454.48,20
+"00858,almost,Laptop,""Holden, Porter and White"",151.25,150.42,54"
+00859,ahead,Smartphone,Shepard-Wells,69.95,106.71,98
+"00860,western,Laptop,""Carroll, Griffin and Byrd"",422.92,612.88,82"
+00861,suddenly,Accessory,Chen Inc,235.0,112.38,47
+00862,white,Laptop,Bentley Ltd,356.33,88.81,12
+00863,money,Accessory,Warner LLC,172.2,237.29,6
+00864,either,Tablet,Norton PLC,308.86,479.06,3
+00865,also,Accessory,Sharp LLC,65.28,493.63,60
+"00866,enough,Smartphone,""Anderson, Obrien and Russo"",204.66,116.95,6"
+00867,close,Laptop,Newman Ltd,350.73,694.15,1
+00868,later,Accessory,Dennis Group,258.18,222.47,95
+00869,success,Accessory,Thomas LLC,91.82,625.61,96
+00870,very,Tablet,Wright PLC,107.13,135.5,41
+00871,need,Smartphone,Barry-Fox,312.98,100.06,99
+00872,some,Tablet,Davis PLC,67.96,203.83,52
+00873,free,Smartphone,Smith PLC,117.01,251.66,2
+00874,prove,Accessory,Russell Group,173.67,329.05,14
+00875,federal,Laptop,Campbell Inc,210.23,300.89,11
+00876,someone,Tablet,Fuller Inc,138.12,669.18,97
+00877,table,Accessory,Morrison-Perez,58.65,618.7,16
+00878,about,Smartphone,Browning LLC,277.89,369.8,44
+00879,hour,Smartphone,Lowe-Taylor,187.15,430.23,24
+00880,generation,Accessory,Collins-Warner,161.08,347.64,65
+00881,stuff,Laptop,Mayer Inc,155.93,617.88,12
+00882,laugh,Smartphone,Johnson-Burton,244.08,226.28,87
+00883,couple,Tablet,Johnson-Holland,121.88,265.58,64
+00884,character,Tablet,Nelson-Thompson,247.73,99.32,25
+00885,face,Laptop,Delgado-Bentley,277.15,699.22,42
+"00886,trade,Smartphone,""Stewart, Lang and Bryant"",468.58,369.65,21"
+00887,begin,Smartphone,Brooks and Sons,392.49,183.94,28
+00888,create,Laptop,Martin LLC,253.44,385.68,29
+00889,family,Accessory,Robertson-Davis,72.9,681.88,87
+00890,produce,Smartphone,Stanley-Garcia,73.11,376.32,27
+00891,act,Smartphone,Delgado-Winters,155.55,422.86,24
+"00892,happen,Tablet,""Miles, Perez and Thompson"",174.08,242.86,89"
+00893,thing,Laptop,Potter-Smith,351.85,483.87,54
+00894,race,Tablet,Willis-Wyatt,168.54,89.32,34
+00895,bring,Laptop,Farley Group,388.43,487.32,4
+00896,performance,Accessory,Kelley Inc,396.4,75.26,90
+"00897,physical,Laptop,""Diaz, Torres and Collins"",480.2,369.77,74"
+"00898,actually,Tablet,""Webb, Jennings and Baxter"",281.85,318.56,37"
+"00899,skill,Tablet,""Arellano, Woods and Matthews"",127.03,502.94,64"
+00900,dark,Smartphone,Gutierrez LLC,127.74,127.63,91
+"00901,above,Smartphone,""Davidson, Rodriguez and Johnson"",376.37,551.04,90"
+00902,without,Laptop,Spencer PLC,322.95,606.55,81
+00903,consumer,Tablet,Ortega-Meyers,65.34,567.01,75
+00904,that,Laptop,Thomas Group,364.72,651.95,50
+"00905,him,Tablet,""Mclaughlin, Atkins and Ward"",67.92,412.82,67"
+"00906,long,Smartphone,""Ramirez, Hill and Pierce"",222.73,594.59,1"
+00907,subject,Laptop,Johnson Group,86.33,143.37,90
+"00908,still,Accessory,""Mcgee, Green and Cortez"",52.56,682.22,73"
+00909,specific,Accessory,Ward Ltd,145.71,539.51,63
+00910,far,Laptop,Bennett PLC,118.34,88.96,24
+00911,first,Accessory,Bradford-Martinez,200.85,361.63,30
+00912,find,Smartphone,Lawson Ltd,369.57,185.51,39
+00913,east,Smartphone,Kramer Ltd,476.88,350.7,65
+00914,conference,Smartphone,Terrell-Young,316.35,74.34,85
+00915,test,Tablet,Cole-Dunn,248.41,339.87,24
+00916,between,Tablet,Edwards LLC,199.96,192.1,23
+00917,low,Tablet,Contreras PLC,278.04,131.65,93
+00918,church,Laptop,Wood-Rollins,146.96,167.94,1
+00919,back,Tablet,Phillips-Mcpherson,416.11,307.42,27
+"00920,my,Accessory,""Wilson, Morris and Cantrell"",477.77,215.48,46"
+"00921,also,Laptop,""Becker, Kelly and Thomas"",78.68,505.24,91"
+00922,a,Smartphone,Jefferson Group,117.79,458.12,91
+00923,figure,Accessory,Mcdonald-Cruz,170.23,364.16,84
+"00924,body,Smartphone,""Finley, Wong and Haynes"",200.9,573.54,51"
+00925,investment,Accessory,Rich Ltd,123.56,580.93,14
+00926,dinner,Accessory,Gomez and Sons,120.85,250.68,72
+00927,yeah,Accessory,Smith-Carroll,375.29,461.63,89
+"00928,board,Accessory,""Davenport, Rivas and Campbell"",66.98,319.16,21"
+"00929,meeting,Tablet,""Austin, Murphy and Lowe"",452.51,449.78,57"
+00930,certain,Laptop,Ramos and Sons,457.04,102.93,0
+00931,life,Accessory,Foster LLC,373.56,550.57,39
+00932,kid,Tablet,Miller LLC,181.18,394.39,90
+"00933,final,Tablet,""Martin, Washington and Lawson"",82.57,130.22,92"
+00934,film,Smartphone,Simpson-Lopez,378.1,156.68,78
+00935,section,Laptop,Turner-Richards,83.7,78.71,10
+00936,interesting,Accessory,Moore and Sons,166.24,250.32,37
+00937,culture,Smartphone,Mcdonald Inc,371.53,457.78,28
+00938,sport,Laptop,Ortiz Group,137.71,307.92,73
+00939,red,Accessory,Conner Group,378.73,366.06,29
+00940,election,Tablet,Riley Group,199.51,252.38,73
+"00941,fast,Accessory,""Rodriguez, Hogan and Freeman"",176.9,500.07,70"
+00942,health,Smartphone,Thompson-Valencia,258.66,126.07,8
+00943,year,Laptop,Cruz Inc,463.95,545.31,64
+00944,effort,Accessory,Craig-Chavez,163.73,324.67,51
+"00945,customer,Accessory,""Hoover, Hall and Edwards"",215.64,392.68,2"
+00946,suddenly,Laptop,Owen LLC,179.18,490.61,15
+00947,rock,Tablet,Kerr PLC,284.23,184.58,79
+"00948,increase,Laptop,""Callahan, Davis and Huerta"",117.2,240.26,59"
+00949,door,Smartphone,Patel-Anderson,281.8,631.7,94
+00950,at,Laptop,Nash Inc,452.22,88.14,4
+00951,hair,Smartphone,Arnold Group,276.87,519.49,93
+00952,someone,Laptop,Watson-Vance,458.85,579.3,95
+"00953,research,Laptop,""Orozco, Carroll and Graham"",307.56,225.12,56"
+00954,between,Laptop,Patton-Meza,198.91,207.17,74
+00955,color,Accessory,Warren Inc,284.59,507.66,12
+00956,interview,Accessory,Bates-York,497.8,360.29,64
+00957,future,Tablet,Jones Inc,331.52,596.1,16
+00958,both,Laptop,Davis-Mcknight,393.79,562.99,18
+"00959,chair,Accessory,""Fernandez, Maynard and Summers"",338.18,391.12,23"
+00960,be,Smartphone,Griffin-Ponce,269.86,546.77,48
+00961,without,Tablet,Harris LLC,72.29,410.92,13
+00962,sister,Laptop,Wright-Johnson,249.57,639.85,54
+00963,why,Tablet,Johnson-Adams,343.32,207.44,45
+00964,other,Laptop,Watkins-Kim,416.3,659.28,34
+"00965,social,Accessory,""Barrett, Murphy and Davis"",415.02,654.12,15"
+00966,machine,Accessory,Roberts and Sons,231.63,594.64,93
+00967,road,Accessory,Acosta-Olson,427.41,599.69,26
+00968,would,Tablet,Jones Group,289.91,545.78,8
+"00969,measure,Tablet,""Anderson, Allen and Johnson"",165.81,625.1,11"
+00970,defense,Accessory,Mcknight-Phelps,487.72,326.35,4
+00971,own,Laptop,Mathis-Perkins,307.18,533.35,24
+"00972,yourself,Laptop,""Jones, Brown and Knapp"",424.74,154.58,36"
+00973,interesting,Smartphone,Hernandez-Gonzales,404.65,214.78,98
+00974,history,Accessory,Heath-Gallegos,263.26,97.99,33
+00975,picture,Tablet,Bates PLC,51.46,400.17,82
+00976,soon,Accessory,Armstrong PLC,320.22,424.55,65
+"00977,discussion,Tablet,""Hill, Collins and Daniels"",446.27,169.68,52"
+"00978,billion,Laptop,""Williams, Turner and Wilson"",147.94,472.94,9"
+"00979,nor,Tablet,""Gates, Ward and Evans"",358.28,204.63,51"
+00980,she,Smartphone,Turner-Davis,315.83,198.73,90
+"00981,choose,Tablet,""Harris, Harris and Clements"",115.23,286.77,27"
+00982,quite,Smartphone,Garcia-Parker,368.5,443.45,93
+"00983,thought,Tablet,""Parks, Mitchell and Ramos"",267.73,311.79,17"
+00984,cost,Laptop,Nunez-Holmes,281.12,494.55,92
+00985,far,Smartphone,Anderson-Green,125.45,569.24,19
+00986,far,Laptop,Noble and Sons,201.71,271.82,98
+"00987,great,Tablet,""Rivera, Carlson and Stephens"",460.29,160.15,62"
+00988,mention,Tablet,Lowe-Ferguson,374.41,562.08,9
+00989,mind,Smartphone,Cameron-Townsend,397.47,241.78,43
+00990,job,Smartphone,Bernard-Hill,372.92,316.32,93
+"00991,nearly,Tablet,""Bass, Porter and Harris"",186.27,102.06,9"
+"00992,use,Tablet,""Gutierrez, Buchanan and Fuller"",86.41,597.77,79"
+00993,step,Smartphone,Perry-Henderson,451.14,580.26,62
+"00994,federal,Smartphone,""Hunt, Brennan and Baker"",358.11,606.3,83"
+00995,still,Tablet,Rivera-Mann,241.84,372.11,80
+"00996,program,Tablet,""Davis, Vega and Mckinney"",107.42,697.14,71"
+00997,concern,Smartphone,Hill Group,149.8,350.22,1
+"00998,drive,Accessory,""Morrison, Holmes and Martinez"",287.91,525.03,38"
+00999,senior,Laptop,Morris-Fitzpatrick,257.91,687.46,59
+"01000,ten,Smartphone,""Freeman, Miller and Dillon"",118.93,564.16,84"
+01001,economy,Smartphone,Daniels-Christian,314.71,470.09,61
+01002,high,Tablet,Rodriguez PLC,490.02,656.84,48
+01003,respond,Smartphone,Jacobs LLC,368.13,331.04,80
+01004,as,Smartphone,Hale-Barker,92.97,483.92,1
+"01005,system,Smartphone,""Gallagher, Martinez and Cameron"",274.56,621.34,15"
+01006,join,Tablet,Flores-Swanson,203.02,658.48,6
+01007,level,Tablet,Vasquez LLC,152.12,205.06,51
+01008,wear,Accessory,Massey-Baker,173.55,530.5,33
+01009,send,Smartphone,Morgan and Sons,58.08,673.22,43
+01010,central,Laptop,Smith-Ashley,399.81,417.57,23
+01011,federal,Laptop,Hicks and Sons,57.39,69.08,2
+01012,memory,Accessory,Fowler PLC,274.36,338.13,30
+01013,five,Laptop,Higgins LLC,66.26,231.52,48
+01014,claim,Tablet,Cherry and Sons,68.89,501.23,91
+01015,team,Tablet,Love LLC,73.61,368.45,46
+"01016,through,Accessory,""Barrett, Cline and Kelly"",286.53,501.79,71"
+01017,word,Laptop,Green Ltd,143.99,125.26,30
+01018,beyond,Tablet,Leach PLC,174.1,229.72,90
+01019,know,Smartphone,Smith-Smith,455.99,298.7,56
+01020,quickly,Smartphone,Anthony-Osborne,265.13,618.48,27
+01021,keep,Smartphone,Ford-Giles,199.05,454.44,83
+01022,image,Tablet,Roman-Jones,50.25,699.59,82
+"01023,finish,Tablet,""Walton, Morales and Barry"",223.71,606.35,13"
+01024,player,Smartphone,Johnson Inc,292.74,447.87,41
+"01025,again,Laptop,""Oliver, Jones and Patterson"",256.73,139.47,63"
+"01026,authority,Laptop,""Curry, Clark and Montes"",281.38,404.75,17"
+"01027,appear,Tablet,""Oneill, Martinez and Bautista"",388.48,175.04,60"
+01028,discuss,Accessory,Allen LLC,214.27,642.41,47
+01029,beat,Smartphone,Cardenas-Curtis,451.46,305.7,12
+01030,at,Accessory,Ford and Sons,427.66,531.29,75
+"01031,kitchen,Accessory,""Nicholson, Green and Guzman"",61.41,87.27,7"
+01032,good,Laptop,Richardson-Huff,341.03,384.57,9
+"01033,job,Accessory,""White, Hernandez and Mcclure"",458.9,305.09,6"
+01034,involve,Tablet,Bishop PLC,330.64,350.23,47
+01035,scientist,Accessory,Bell-Mosley,310.89,639.65,0
+01036,early,Accessory,Stevens-Ellis,64.26,65.15,17
+"01037,admit,Smartphone,""Hoffman, Lopez and Wood"",382.32,307.36,72"
+"01038,test,Accessory,""Vargas, Love and Perez"",317.29,346.35,42"
+"01039,camera,Tablet,""Rowland, Miles and Riley"",395.82,240.47,99"
+01040,pretty,Smartphone,Taylor-Smith,148.79,311.53,10
+"01041,public,Accessory,""Adams, Jones and Miller"",350.91,443.52,62"
+01042,growth,Laptop,Johnson Group,87.36,638.79,33
+01043,can,Tablet,Burke Inc,136.04,496.13,82
+"01044,usually,Laptop,""Stewart, Avila and Kemp"",326.09,272.04,58"
+"01045,number,Accessory,""Nichols, Webb and Walker"",320.86,196.89,95"
+01046,college,Accessory,Daniels-Ford,439.23,361.92,48
+"01047,leader,Smartphone,""Wright, Mccall and Ball"",493.21,349.27,77"
+01048,contain,Tablet,Kaufman and Sons,112.49,480.86,19
+"01049,available,Tablet,""Wright, Hayden and Savage"",357.93,214.43,3"
+01050,write,Accessory,Owens Ltd,478.29,192.1,0
+01051,group,Laptop,Landry PLC,58.47,86.11,17
+"01052,here,Smartphone,""Evans, Burns and Jones"",101.06,387.5,45"
+"01053,themselves,Laptop,""Martin, Jenkins and Green"",231.17,384.25,48"
+01054,moment,Smartphone,Harris LLC,469.9,510.93,80
+01055,every,Tablet,Wong-Burke,293.12,644.66,76
+01056,nearly,Laptop,Huffman and Sons,420.85,395.57,98
+01057,challenge,Tablet,Romero-Rosales,274.37,555.76,86
+01058,small,Smartphone,Fischer-Andrews,111.22,473.58,7
+01059,draw,Smartphone,Gibson Inc,120.74,356.71,26
+01060,mouth,Tablet,Williams Inc,338.4,131.39,69
+"01061,official,Tablet,""Martinez, Weaver and Davidson"",67.08,333.0,30"
+01062,might,Laptop,Wright and Sons,285.65,592.06,82
+"01063,use,Smartphone,""Silva, Harrison and Smith"",291.47,397.1,6"
+01064,maybe,Laptop,Fuller and Sons,499.74,548.57,68
+01065,we,Smartphone,Gray-Duncan,147.28,196.13,22
+01066,worker,Accessory,Hernandez Group,158.66,206.46,65
+01067,great,Tablet,Maddox-King,264.73,196.69,17
+01068,hit,Accessory,Perez and Sons,144.68,194.2,25
+"01069,bar,Tablet,""Wilson, Perkins and Hernandez"",74.51,343.55,44"
+01070,thought,Laptop,Webb-Meyer,77.68,628.93,90
+01071,those,Smartphone,Lopez and Sons,317.84,330.92,1
+01072,meet,Tablet,Soto and Sons,369.89,280.5,71
+01073,list,Laptop,Perry-Kelly,110.47,626.33,68
+01074,job,Laptop,Mcpherson-Fisher,461.58,398.82,95
+01075,read,Laptop,Mathews Ltd,433.63,367.59,64
+01076,light,Smartphone,Campbell-Jones,224.91,675.23,56
+01077,professional,Accessory,Greene Inc,170.47,262.66,90
+01078,address,Laptop,Robinson-Edwards,241.45,317.79,37
+"01079,build,Accessory,""Flores, Hahn and Jones"",265.72,557.99,2"
+"01080,perform,Tablet,""Moore, Lloyd and Smith"",233.69,318.73,18"
+"01081,film,Smartphone,""Romero, Rodriguez and Sims"",88.87,466.39,62"
+"01082,movie,Smartphone,""Leon, Gill and White"",194.23,81.91,50"
+"01083,general,Smartphone,""Mcfarland, Gonzalez and Russell"",344.46,541.73,22"
+01084,actually,Laptop,Williams-Olson,357.72,394.84,16
+01085,coach,Smartphone,Smith Group,237.14,116.82,69
+"01086,shoulder,Accessory,""Mitchell, Campbell and Jordan"",336.36,223.1,59"
+01087,speech,Accessory,Martinez-Parsons,294.89,249.59,48
+01088,themselves,Smartphone,Smith and Sons,228.3,368.5,76
+01089,black,Accessory,Steele-Murray,219.42,253.1,9
+01090,painting,Laptop,Larson Group,161.44,634.96,13
+01091,contain,Accessory,Flores Inc,402.13,525.7,76
+01092,chair,Laptop,Mullins-Myers,482.56,101.74,94
+"01093,bag,Laptop,""Lee, Freeman and Gonzalez"",294.76,483.82,24"
+01094,produce,Laptop,Barrett Ltd,134.2,653.91,67
+01095,wish,Smartphone,Johnston-Mcmahon,180.62,252.87,30
+01096,out,Tablet,Coffey Group,383.86,660.82,37
+"01097,mother,Laptop,""Velez, Parrish and Chung"",434.21,274.37,25"
+"01098,push,Laptop,""Guzman, Yates and Burton"",153.67,343.42,52"
+01099,sing,Accessory,Gonzalez Inc,232.45,528.14,28
+01100,market,Laptop,Walker-Mills,271.13,83.06,72
+01101,grow,Smartphone,Silva-George,384.22,64.34,16
+"01102,political,Smartphone,""Farrell, Shepard and Howard"",298.02,84.82,68"
+"01103,inside,Tablet,""Ayers, Boyd and Ellis"",60.02,154.17,41"
+01104,determine,Accessory,Martinez and Sons,171.58,198.07,17
+"01105,practice,Tablet,""Mcpherson, Ford and Miller"",90.72,379.68,75"
+"01106,cause,Accessory,""Jones, Norton and Owens"",457.08,239.44,54"
+"01107,charge,Tablet,""Stephens, Kelley and Nguyen"",395.88,636.95,46"
+"01108,travel,Accessory,""Long, Jackson and Peters"",238.71,312.38,64"
+"01109,she,Accessory,""Jackson, Obrien and White"",116.02,346.08,11"
+01110,increase,Laptop,Winters PLC,240.7,169.51,82
+"01111,present,Accessory,""Foster, Thomas and Allen"",335.56,226.43,92"
+"01112,air,Smartphone,""Kelley, Wilson and Smith"",292.32,331.09,53"
+"01113,happy,Laptop,""Chan, Mckinney and Owen"",438.22,163.02,46"
+01114,southern,Tablet,Solis-Reyes,336.6,350.27,30
+01115,kitchen,Tablet,Young-Young,397.75,122.16,44
+01116,themselves,Laptop,Martin-Patterson,423.59,314.39,47
+01117,involve,Smartphone,Boyd Inc,116.05,622.12,80
+"01118,future,Smartphone,""Scott, Copeland and Swanson"",296.94,243.09,63"
+01119,have,Tablet,Parrish and Sons,304.07,174.39,87
+01120,your,Accessory,Russo LLC,291.18,126.18,61
+"01121,seven,Laptop,""Yates, Miller and Garcia"",344.58,598.53,56"
+"01122,sport,Tablet,""Peters, Clark and Jackson"",445.49,361.46,84"
+01123,member,Accessory,Smith-Wong,302.09,139.96,76
+01124,catch,Laptop,Bailey-Melendez,225.88,225.35,58
+"01125,animal,Accessory,""Morris, Mcguire and Mckenzie"",498.46,249.38,29"
+01126,simply,Laptop,Rivera-Mathis,192.69,106.42,30
+01127,over,Laptop,Brown-Ford,443.22,233.75,10
+01128,point,Laptop,Bailey-King,388.3,130.73,93
+01129,speak,Smartphone,Soto Group,153.87,204.89,27
+"01130,budget,Laptop,""Martin, Smith and Banks"",473.77,648.75,9"
+01131,health,Smartphone,Meyer Ltd,403.21,456.21,66
+"01132,artist,Accessory,""Hamilton, Roberts and White"",486.02,381.65,20"
+"01133,watch,Smartphone,""Perez, Carey and Page"",451.23,424.96,31"
+01134,when,Laptop,Ramirez PLC,149.08,337.17,76
+01135,each,Smartphone,Singh-Houston,86.35,280.25,50
+01136,entire,Smartphone,Mcpherson-Brooks,364.12,625.14,68
+01137,walk,Accessory,Baird Inc,104.66,383.49,53
+"01138,loss,Smartphone,""Rivers, Werner and Franklin"",471.97,633.58,62"
+01139,prepare,Accessory,Mahoney Group,443.82,232.95,59
+01140,later,Laptop,Davis PLC,295.91,647.83,3
+"01141,high,Laptop,""Cummings, Bautista and Weber"",87.38,522.98,89"
+"01142,sound,Accessory,""Palmer, Fuller and Murray"",172.89,204.2,8"
+"01143,executive,Smartphone,""Morgan, Suarez and Rodriguez"",319.25,628.7,15"
+"01144,why,Smartphone,""Jones, Clark and Manning"",294.83,108.75,56"
+01145,effect,Smartphone,Johnson-Shelton,294.55,620.88,1
+"01146,well,Smartphone,""Thomas, Campbell and Lyons"",364.05,260.16,45"
+01147,perhaps,Tablet,Smith-Walters,181.82,435.19,92
+"01148,condition,Tablet,""Murphy, Parks and Morrow"",268.7,670.27,50"
+01149,evidence,Smartphone,Valdez-Padilla,410.43,272.5,40
+"01150,often,Tablet,""Olsen, James and Hayes"",175.68,263.76,62"
+01151,decade,Tablet,Anderson-Thompson,488.4,88.58,10
+01152,health,Tablet,Holden-Ryan,433.8,443.21,77
+01153,figure,Laptop,Munoz and Sons,471.66,642.39,7
+"01154,morning,Tablet,""Young, Cannon and Martinez"",316.48,195.82,7"
+01155,maybe,Tablet,Robertson-Rodriguez,451.08,537.34,39
+01156,set,Tablet,Grant-Collins,333.33,296.45,58
+"01157,degree,Accessory,""Hicks, Johnson and Williams"",139.25,421.94,47"
+01158,happy,Tablet,Hughes-Gonzalez,113.4,88.81,43
+"01159,safe,Tablet,""Gutierrez, Heath and Sanchez"",362.98,224.5,36"
+01160,and,Laptop,Lowe Inc,174.35,660.84,30
+01161,scientist,Laptop,Rios and Sons,106.37,232.57,31
+"01162,Mr,Accessory,""Wood, Hammond and Miller"",374.56,300.29,50"
+01163,myself,Tablet,Tyler Ltd,129.15,336.76,54
+01164,data,Smartphone,Lee Group,496.27,343.43,41
+01165,factor,Accessory,Porter PLC,381.4,183.89,53
+01166,capital,Accessory,Wilson PLC,416.07,126.57,33
+"01167,beat,Accessory,""Acosta, Nixon and Francis"",442.46,474.52,97"
+01168,listen,Tablet,Graves Ltd,249.08,134.83,60
+"01169,range,Smartphone,""Myers, Boyd and Hebert"",279.7,148.89,14"
+"01170,officer,Accessory,""Adams, Carter and Jones"",316.2,325.43,35"
+01171,skill,Laptop,Bender Ltd,431.43,403.07,14
+01172,option,Smartphone,White-Miller,385.6,219.98,84
+01173,hear,Laptop,Bryan-Wells,458.27,578.55,55
+"01174,foreign,Tablet,""Palmer, Velasquez and Hodges"",204.26,688.72,72"
+01175,lead,Laptop,Ware PLC,246.84,93.48,23
+01176,east,Accessory,Farley-Gordon,277.73,283.14,90
+01177,everything,Accessory,Berry-Castillo,230.16,530.03,4
+01178,miss,Tablet,Brown-Rowe,129.56,632.65,4
+"01179,this,Accessory,""Garcia, Valdez and Cox"",258.28,82.95,7"
+"01180,Congress,Tablet,""Wade, Price and Perez"",136.22,497.64,88"
+"01181,skill,Tablet,""Frost, Smith and Parker"",330.26,467.78,37"
+01182,help,Tablet,Kelly-Williams,204.34,62.93,99
+01183,involve,Tablet,Miranda Inc,425.19,378.54,38
+"01184,run,Tablet,""Rice, Mendoza and House"",115.94,270.46,19"
+"01185,study,Smartphone,""Smith, Richards and David"",429.0,476.94,27"
+"01186,figure,Smartphone,""White, Garza and Anderson"",367.88,302.1,100"
+"01187,sense,Smartphone,""Davis, Allen and Noble"",117.13,365.88,73"
+01188,occur,Laptop,Bates-Alvarez,93.89,403.25,58
+01189,response,Smartphone,Vargas-Roberts,171.08,115.12,55
+01190,place,Tablet,Nixon-Brown,387.86,519.19,56
+01191,responsibility,Smartphone,Johnson-Smith,406.49,618.79,70
+"01192,there,Tablet,""Hanson, Cooper and Robles"",239.55,483.25,59"
+01193,level,Accessory,Price-Lewis,213.03,85.74,58
+"01194,first,Laptop,""Collins, Jenkins and Reese"",448.28,234.55,14"
+"01195,population,Accessory,""Page, Barber and Watts"",254.37,647.1,61"
+"01196,dream,Smartphone,""Steele, Bennett and Jackson"",122.93,305.64,59"
+01197,color,Laptop,Hernandez and Sons,444.08,658.54,55
+01198,ready,Smartphone,Jordan PLC,138.08,447.89,22
+"01199,entire,Accessory,""Moss, Johnson and Long"",333.17,522.02,56"
+01200,score,Smartphone,Stewart-Flores,302.38,95.59,100
+"01201,thing,Laptop,""Young, Garcia and Casey"",432.21,131.0,10"
+"01202,have,Tablet,""Collins, Kerr and Parker"",268.6,175.02,55"
+"01203,job,Laptop,""Wilson, Reynolds and Middleton"",140.62,384.13,89"
+01204,accept,Laptop,Lopez Group,280.04,485.64,46
+01205,my,Accessory,Vasquez Inc,85.13,690.66,16
+01206,control,Tablet,Meyers Inc,292.4,575.93,65
+01207,eat,Tablet,Werner LLC,246.2,531.55,21
+01208,evidence,Accessory,Delgado PLC,316.84,672.73,69
+"01209,individual,Accessory,""Perry, Brown and Douglas"",351.57,576.06,46"
+01210,staff,Laptop,Soto LLC,491.66,661.3,88
+01211,according,Smartphone,Moore-Copeland,126.55,640.51,3
+"01212,station,Laptop,""Reid, Spencer and Monroe"",299.81,570.32,20"
+01213,heart,Tablet,Craig-Rivas,267.87,594.35,52
+01214,member,Laptop,Ferguson and Sons,164.18,115.67,50
+"01215,box,Accessory,""Jackson, Kelley and Cook"",375.41,647.23,40"
+"01216,generation,Laptop,""Butler, Jones and Mclaughlin"",158.4,513.94,58"
+"01217,clearly,Accessory,""Foley, Smith and Pierce"",448.75,494.98,77"
+"01218,walk,Smartphone,""Shah, Clarke and Robbins"",481.73,334.89,57"
+01219,lose,Laptop,Werner-Edwards,151.51,173.72,68
+01220,morning,Accessory,Wood and Sons,194.04,175.3,79
+01221,may,Laptop,Porter Ltd,196.48,358.66,28
+01222,administration,Accessory,Mcdowell-Thomas,397.66,677.57,60
+01223,senior,Laptop,Becker Inc,395.5,426.59,62
+01224,then,Smartphone,Waller-Davis,235.57,252.85,42
+"01225,allow,Accessory,""Snow, Wagner and Brown"",449.11,180.7,45"
+"01226,you,Laptop,""Cruz, Montgomery and Castaneda"",125.84,286.25,80"
+01227,table,Smartphone,Frank-Clark,332.22,302.36,41
+"01228,charge,Smartphone,""Vincent, Mitchell and Schwartz"",63.65,681.96,60"
+01229,toward,Smartphone,Brown-Armstrong,376.35,164.95,56
+01230,water,Laptop,Perez Ltd,471.64,248.09,59
+01231,compare,Tablet,Clay LLC,69.78,312.41,97
+01232,head,Tablet,Santiago Inc,461.42,344.3,31
+01233,floor,Laptop,Watson-Larson,71.17,292.11,36
+01234,small,Tablet,Tanner-Nguyen,154.95,506.96,68
+01235,girl,Tablet,Patel Inc,149.65,538.34,49
+01236,bank,Tablet,Miller-Miller,457.94,332.31,12
+01237,though,Tablet,Bautista Group,125.64,699.22,54
+01238,government,Accessory,Mckinney Inc,228.64,484.56,48
+"01239,lay,Tablet,""Reyes, Hernandez and Morgan"",215.8,134.8,38"
+01240,chance,Laptop,Levy Ltd,338.15,161.0,48
+"01241,cover,Smartphone,""Mason, Anthony and Freeman"",178.11,632.4,100"
+01242,however,Accessory,Huerta-Carlson,118.04,119.73,78
+01243,performance,Tablet,Hart Group,249.29,179.2,58
+"01244,lawyer,Smartphone,""Huffman, Davis and Reynolds"",124.88,518.31,1"
+01245,look,Smartphone,Ford-Holloway,69.31,443.04,66
+01246,easy,Tablet,Cantrell PLC,333.49,76.68,73
+01247,head,Tablet,Nichols-Fernandez,237.91,142.37,77
+"01248,sometimes,Accessory,""Cruz, Burnett and Tate"",86.08,646.42,38"
+01249,production,Tablet,Boyd Inc,208.84,562.7,12
+01250,over,Laptop,Jones Inc,410.58,499.62,16
+01251,rise,Smartphone,Swanson-Mcconnell,140.9,245.35,79
+"01252,nor,Laptop,""Black, Benitez and Savage"",323.89,198.75,78"
+01253,half,Smartphone,Stewart-Johnson,344.81,557.39,72
+"01254,exist,Laptop,""Hill, Watkins and York"",437.96,576.77,16"
+"01255,out,Smartphone,""Cook, Branch and Morris"",284.05,295.04,53"
+01256,young,Smartphone,Khan Ltd,287.2,606.24,73
+01257,might,Smartphone,Thompson-Ramsey,100.55,675.37,62
+01258,positive,Tablet,Ward Ltd,367.23,217.02,79
+01259,subject,Accessory,Deleon-Johnson,353.16,132.8,87
+"01260,hope,Accessory,""Harris, Giles and Rodriguez"",67.63,617.6,27"
+01261,current,Accessory,Barrera-Ball,369.08,411.37,12
+01262,one,Tablet,Sims-Sims,445.46,469.68,61
+01263,clear,Tablet,James-Reynolds,150.59,582.98,2
+01264,rate,Smartphone,Schultz Group,481.58,168.67,51
+01265,case,Laptop,Haynes-Bernard,391.25,500.94,92
+"01266,money,Laptop,""Huffman, Dean and Rogers"",492.06,330.39,49"
+01267,technology,Tablet,Rodriguez-Horton,454.6,61.04,96
+01268,meet,Laptop,Wilson-Smith,193.08,293.41,29
+"01269,Mrs,Laptop,""Chavez, Harrell and White"",89.55,205.03,94"
+01270,should,Accessory,Adams Inc,207.12,558.22,98
+01271,day,Smartphone,Martinez-Sanders,489.58,284.48,38
+"01272,prove,Accessory,""Kennedy, Smith and Rice"",216.65,358.11,46"
+"01273,strong,Smartphone,""Hanna, Leon and Scott"",327.03,324.93,23"
+"01274,society,Accessory,""Melendez, Spencer and Tapia"",323.32,376.03,14"
+01275,marriage,Accessory,Carlson-Powers,399.24,518.89,81
+01276,sure,Tablet,Ross and Sons,118.25,604.7,37
+01277,morning,Smartphone,Owens-Harris,124.77,577.3,35
+01278,billion,Laptop,Sexton Inc,310.63,482.94,95
+"01279,soon,Accessory,""Hicks, Robles and Knapp"",283.46,686.16,62"
+01280,soon,Laptop,Petty and Sons,420.08,648.37,87
+"01281,paper,Laptop,""Martinez, Ashley and Austin"",458.54,370.93,54"
+"01282,agent,Tablet,""Clark, Horn and Dunn"",304.94,386.47,32"
+"01283,him,Tablet,""Gregory, Harris and Williams"",221.76,528.61,63"
+01284,rather,Laptop,Chan PLC,300.24,74.51,48
+01285,factor,Smartphone,Mora-Martin,135.62,646.05,71
+01286,start,Tablet,Kirk-Ramirez,79.58,90.95,17
+"01287,he,Accessory,""Ramos, Scott and Maldonado"",211.76,336.25,6"
+"01288,economy,Laptop,""Walker, Kennedy and Lloyd"",419.98,609.23,37"
+01289,everyone,Accessory,Chan-Miller,217.26,328.24,100
+"01290,those,Accessory,""Wilson, Reed and Harmon"",105.95,76.59,96"
+01291,forward,Laptop,Johnson-Long,117.77,681.98,94
+"01292,during,Tablet,""Duran, Webb and Allen"",138.01,271.22,38"
+01293,training,Accessory,Bolton-Oliver,116.09,272.8,18
+01294,strategy,Tablet,Barron-Smith,231.64,376.7,42
+01295,class,Laptop,Shepherd LLC,485.56,410.83,95
+"01296,interview,Laptop,""Meyers, Perry and Phillips"",338.38,620.01,30"
+01297,recognize,Smartphone,Hernandez Inc,384.55,415.35,2
+01298,public,Accessory,Beasley-Thompson,215.64,643.65,95
+01299,allow,Smartphone,Allen-Anderson,148.21,253.7,15
+01300,side,Smartphone,Gordon-Ramos,423.0,102.39,57
+01301,red,Tablet,Buchanan Inc,267.97,416.09,36
+01302,instead,Laptop,Jordan LLC,118.06,699.97,21
+01303,they,Tablet,Ortiz and Sons,341.64,296.62,41
+"01304,power,Laptop,""Mendoza, Gilmore and Long"",152.86,180.54,100"
+"01305,discover,Smartphone,""Moss, Clark and Bender"",463.56,688.36,68"
+01306,because,Accessory,Johnson-Mercado,111.19,577.54,20
+"01307,job,Accessory,""Holden, Chen and Compton"",242.12,395.56,83"
+01308,forget,Tablet,Miller-Bonilla,77.42,187.18,94
+01309,hundred,Accessory,Barnett-Bryant,132.31,101.51,63
+01310,develop,Smartphone,Miranda Inc,164.42,591.38,71
+01311,close,Smartphone,Tran LLC,56.19,643.12,71
+01312,create,Laptop,Johnson Group,182.47,375.82,83
+"01313,explain,Tablet,""Gillespie, Brown and Spencer"",403.95,341.03,19"
+"01314,wonder,Accessory,""Mack, Leon and Butler"",107.05,523.02,0"
+01315,better,Accessory,Chavez Group,357.77,334.33,36
+01316,deep,Accessory,Drake Ltd,391.76,232.53,39
+01317,thus,Laptop,Tucker Group,141.78,497.62,81
+"01318,last,Accessory,""Smith, Moore and Walker"",139.4,486.84,33"
+01319,wall,Accessory,Cameron-Clark,92.77,218.13,37
+01320,read,Laptop,Thomas LLC,142.74,545.07,65
+01321,light,Laptop,Moore Inc,295.22,244.99,83
+01322,family,Accessory,Wilkinson-James,469.07,302.09,33
+01323,yard,Smartphone,Hunt PLC,499.46,220.37,25
+01324,whatever,Tablet,Flores LLC,211.3,135.31,86
+"01325,evening,Tablet,""Wade, Farrell and Morales"",204.85,568.81,52"
+01326,finish,Accessory,Hodge-Bennett,138.38,513.13,38
+01327,onto,Tablet,Camacho Group,280.07,629.84,82
+01328,property,Smartphone,Ortega Group,167.28,156.05,4
+01329,weight,Laptop,Williams-Graves,293.15,340.9,62
+"01330,now,Laptop,""Love, Stephens and Barnes"",139.3,394.91,76"
+01331,story,Smartphone,Saunders-Sanchez,389.46,411.97,31
+01332,begin,Tablet,Garcia PLC,430.13,527.27,75
+01333,accept,Laptop,Brown-Reynolds,424.5,220.4,15
+01334,safe,Accessory,Lynch PLC,352.81,534.0,60
+01335,still,Smartphone,Miller LLC,66.96,530.91,77
+"01336,establish,Accessory,""Russell, Brown and Martinez"",182.98,399.36,65"
+"01337,thus,Tablet,""Byrd, Armstrong and Brown"",212.24,107.49,58"
+01338,past,Laptop,Wilkins-Bennett,129.97,460.96,85
+"01339,open,Smartphone,""Floyd, Ramirez and King"",442.12,290.41,63"
+"01340,sell,Smartphone,""Cannon, Graves and Gonzales"",489.59,69.4,77"
+"01341,discover,Accessory,""Waters, Simmons and Smith"",205.08,517.03,14"
+01342,no,Tablet,Bowers-Welch,267.67,223.99,89
+01343,white,Accessory,Bailey-Powell,322.28,256.0,76
+"01344,even,Accessory,""Ayala, Hill and Johnson"",426.22,131.86,92"
+01345,tonight,Tablet,Davis and Sons,398.05,693.88,8
+"01346,certain,Tablet,""Pierce, Adams and Wright"",217.62,417.77,52"
+"01347,room,Smartphone,""Miller, Hammond and Lewis"",281.35,85.05,25"
+01348,evidence,Smartphone,Jordan LLC,166.6,71.14,77
+"01349,guess,Smartphone,""Reed, Davis and Torres"",195.12,227.31,48"
+01350,commercial,Tablet,Blankenship Group,270.64,531.26,30
+"01351,professional,Laptop,""Holt, Reynolds and Mann"",441.69,571.57,81"
+01352,time,Accessory,Allen-James,169.59,275.56,79
+01353,show,Laptop,Bush-Harris,270.99,170.69,26
+01354,word,Tablet,Jacobs LLC,487.73,366.83,34
+"01355,tree,Tablet,""Mercer, Lopez and Miller"",182.9,395.09,86"
+01356,should,Tablet,Swanson LLC,94.48,199.73,32
+01357,staff,Tablet,Beck-Morton,170.73,309.85,7
+"01358,coach,Smartphone,""Mccarthy, Mills and Cooper"",287.48,326.6,63"
+01359,off,Smartphone,Villanueva and Sons,483.44,396.52,36
+"01360,laugh,Laptop,""Cisneros, Gonzalez and Hoover"",455.76,157.7,60"
+"01361,animal,Tablet,""Wise, Wheeler and Carter"",274.15,353.38,78"
+01362,history,Laptop,Middleton-Wade,266.45,324.98,20
+01363,game,Tablet,Martinez PLC,154.55,235.83,88
+01364,onto,Laptop,Moore-Brown,374.48,200.05,37
+01365,fast,Laptop,Barrett-Scott,369.02,501.92,65
+"01366,analysis,Smartphone,""Riley, Nelson and Harper"",404.87,203.63,58"
+"01367,catch,Laptop,""Johnson, Robinson and Marquez"",254.82,650.42,75"
+"01368,detail,Accessory,""Hernandez, Henry and Pruitt"",374.37,573.36,55"
+01369,around,Laptop,Hayes Inc,445.4,372.22,34
+01370,some,Laptop,Bailey-Cardenas,146.07,619.66,88
+"01371,share,Accessory,""Powell, Palmer and Melton"",145.13,112.6,63"
+01372,dog,Laptop,Roberts Ltd,322.68,268.9,40
+"01373,group,Tablet,""Garcia, Bradley and Scott"",145.3,615.04,72"
+01374,sound,Laptop,Little and Sons,220.54,461.4,71
+"01375,head,Smartphone,""Harrell, Wallace and Smith"",95.95,512.49,60"
+01376,out,Laptop,Black-Morgan,219.2,162.59,11
+01377,father,Smartphone,Thompson PLC,336.83,87.63,43
+01378,significant,Accessory,Long-Howell,170.46,342.22,3
+01379,state,Tablet,Williams and Sons,406.7,559.93,42
+01380,general,Smartphone,Jackson-Fisher,390.02,428.23,87
+01381,two,Smartphone,Johnson-Pierce,129.77,205.85,21
+01382,line,Smartphone,Shaffer-Buckley,154.57,150.41,1
+"01383,before,Tablet,""Bowers, Garrett and Wright"",352.67,319.04,43"
+"01384,century,Accessory,""Taylor, Nelson and Bennett"",276.02,71.07,100"
+01385,chair,Smartphone,Turner Group,380.93,399.74,92
+01386,poor,Laptop,Carroll Inc,202.25,123.01,5
+01387,business,Laptop,Mason Group,117.92,505.06,7
+01388,finally,Smartphone,Dickerson and Sons,104.79,585.88,95
+01389,poor,Tablet,Brown-Kerr,171.98,243.93,32
+01390,guy,Tablet,Todd Inc,292.34,523.89,87
+"01391,rich,Tablet,""Bennett, Cooper and Nguyen"",103.97,628.48,12"
+"01392,not,Tablet,""Mercer, Wilkins and Walker"",449.67,339.1,7"
+01393,couple,Tablet,Williams Group,223.96,358.89,99
+01394,letter,Laptop,Moore PLC,298.78,399.64,100
+01395,determine,Tablet,Santos-Meyer,320.96,302.28,92
+01396,father,Laptop,Bennett PLC,327.81,582.45,29
+01397,remain,Laptop,Johnson LLC,468.1,181.72,73
+01398,song,Laptop,Steele-Stevenson,81.53,546.46,44
+01399,break,Tablet,Keith Inc,90.2,512.52,29
+01400,technology,Accessory,Butler PLC,474.44,620.61,70
+01401,we,Laptop,Carr-Wilson,347.78,278.67,6
+01402,onto,Accessory,Ellison-Cherry,468.58,407.62,1
+01403,popular,Smartphone,Mosley LLC,261.85,139.73,89
+01404,social,Laptop,Jackson-Mccarthy,151.78,229.39,7
+01405,debate,Laptop,Harrington-Edwards,244.7,497.1,98
+01406,study,Tablet,Anderson-Whitney,65.37,218.1,4
+"01407,message,Accessory,""Sanders, Chavez and Sanford"",365.55,354.96,69"
+01408,military,Tablet,Rogers-Jackson,139.75,393.48,28
+01409,price,Smartphone,Oconnell-Kim,133.18,647.8,41
+"01410,movement,Smartphone,""Smith, Bush and Cunningham"",244.42,476.24,2"
+01411,situation,Tablet,Harris Ltd,82.83,159.7,64
+01412,charge,Smartphone,Garcia Inc,99.51,349.28,74
+01413,woman,Tablet,Cannon Ltd,354.9,196.59,27
+01414,anyone,Tablet,Collier-Freeman,135.35,388.05,36
+"01415,around,Smartphone,""Brown, Cabrera and Mccarthy"",137.06,134.15,0"
+01416,thousand,Accessory,Donovan-Gaines,110.28,354.45,97
+01417,spring,Smartphone,Rowland-Clark,257.89,662.07,31
+01418,be,Tablet,Randolph Ltd,110.01,581.34,65
+01419,end,Accessory,Hunt-Guerra,490.88,505.29,25
+"01420,family,Smartphone,""Hoffman, Cruz and Sanders"",411.88,578.01,24"
+"01421,indicate,Smartphone,""Gardner, Vaughn and Adams"",325.84,324.51,35"
+01422,this,Tablet,Murillo Inc,403.49,444.05,32
+"01423,religious,Laptop,""Berg, Becker and Hayes"",391.18,247.39,17"
+"01424,kitchen,Smartphone,""Rivera, Hernandez and Manning"",158.94,391.49,97"
+01425,task,Tablet,Parker and Sons,185.2,647.67,22
+01426,hope,Accessory,Marquez LLC,472.12,305.99,13
+01427,nor,Accessory,Taylor-Brown,263.29,496.42,33
+"01428,suffer,Laptop,""Kelley, Jones and King"",475.05,405.47,85"
+01429,need,Laptop,Anderson-Gentry,55.2,503.73,13
+01430,knowledge,Tablet,Vang and Sons,305.74,577.97,84
+01431,know,Smartphone,Page-Wright,50.29,178.45,37
+01432,mother,Laptop,Rivera and Sons,176.96,584.74,46
+01433,without,Laptop,Nguyen-Newman,101.8,548.98,49
+01434,when,Laptop,Porter Ltd,313.64,476.85,81
+01435,tend,Smartphone,Fisher-Coleman,164.0,601.78,53
+01436,road,Accessory,Rivera-Nguyen,392.06,372.66,72
+01437,three,Tablet,Smith Group,477.51,206.0,14
+"01438,statement,Laptop,""Hughes, Spencer and Mendez"",155.56,612.12,28"
+01439,specific,Smartphone,Ballard-Taylor,438.64,677.14,54
+01440,summer,Tablet,Martinez-Cole,424.65,621.32,13
+01441,down,Tablet,Burton-Avery,162.17,347.19,96
+"01442,south,Tablet,""Young, Fox and Williams"",140.1,129.62,46"
+01443,evening,Accessory,Stewart-Scott,491.18,522.01,68
+"01444,individual,Tablet,""Watson, Stevens and Orozco"",148.98,109.08,47"
+01445,sit,Smartphone,Thomas-Nguyen,164.41,306.24,85
+"01446,serve,Smartphone,""Casey, Castillo and Hayes"",472.95,528.31,77"
+01447,story,Smartphone,Dawson Inc,138.84,615.99,28
+"01448,I,Laptop,""Andrade, Turner and Jones"",130.39,333.99,29"
+01449,us,Accessory,Silva Ltd,448.24,503.58,90
+01450,maintain,Accessory,Stephens Group,451.26,273.26,89
+01451,century,Smartphone,Mendez Inc,370.89,500.77,33
+01452,measure,Smartphone,French Group,307.58,458.84,31
+01453,bed,Smartphone,Conley LLC,324.71,242.59,45
+"01454,manager,Tablet,""Baker, Torres and Thompson"",484.68,647.37,68"
+01455,able,Laptop,Gutierrez-Simon,288.8,691.68,11
+"01456,relate,Smartphone,""Gonzales, Miranda and Mcgee"",276.01,681.66,71"
+01457,college,Tablet,Smith-Lloyd,202.59,281.57,58
+"01458,meet,Tablet,""Carter, Oliver and Jenkins"",312.04,512.68,50"
+"01459,poor,Laptop,""Cole, Alvarado and Williams"",457.19,240.66,91"
+01460,industry,Laptop,Scott-Jordan,255.34,697.11,86
+01461,computer,Accessory,Anderson Ltd,361.19,197.21,70
+01462,also,Laptop,Brown-Moore,371.52,301.35,1
+01463,majority,Smartphone,Johnson-Dudley,208.08,580.65,66
+01464,during,Tablet,Conner-Romero,480.42,309.49,80
+"01465,or,Laptop,""Blackburn, Taylor and Price"",240.52,264.57,100"
+"01466,right,Smartphone,""Maynard, Garza and Abbott"",420.51,578.07,37"
+01467,interesting,Laptop,Walker-Howard,427.75,675.9,73
+"01468,this,Accessory,""Hoffman, Delacruz and Young"",315.4,610.06,90"
+01469,thousand,Laptop,Wiley-Tran,337.13,524.18,85
+01470,learn,Laptop,Evans Inc,300.47,206.85,88
+"01471,will,Accessory,""Mckee, Gonzalez and Mcbride"",396.99,76.83,81"
+01472,social,Tablet,Ball Inc,425.21,347.42,9
+"01473,knowledge,Accessory,""Lang, Coleman and Brown"",242.41,582.13,98"
+01474,in,Tablet,Reed Ltd,441.42,406.38,7
+01475,kind,Accessory,Williams LLC,375.16,137.43,58
+"01476,produce,Laptop,""Moody, Madden and Williams"",260.89,138.71,50"
+"01477,answer,Accessory,""West, Harrison and Good"",244.82,445.95,18"
+"01478,age,Accessory,""Juarez, Daniels and Villarreal"",487.09,68.93,85"
+01479,leader,Laptop,Leblanc Inc,172.68,450.02,0
+01480,popular,Accessory,Ortega-Smith,75.33,274.93,34
+01481,return,Tablet,Barron Inc,492.81,165.72,18
+01482,nearly,Smartphone,Pennington-Arias,390.67,347.38,14
+"01483,left,Accessory,""Edwards, Shaw and Brown"",436.28,633.79,98"
+01484,myself,Smartphone,Dean Inc,395.04,584.21,88
+01485,whether,Laptop,Stanton-Sutton,218.48,444.2,74
+"01486,discover,Laptop,""King, Shannon and Hanson"",114.88,462.53,64"
+"01487,give,Laptop,""White, Boyer and Lara"",170.36,509.48,9"
+"01488,other,Accessory,""Wallace, Scott and Marshall"",203.23,643.43,90"
+01489,fall,Smartphone,Carter LLC,179.52,365.66,20
+01490,city,Accessory,Chang Inc,52.12,337.17,92
+01491,husband,Laptop,Mcbride-Pope,283.53,89.85,82
+01492,court,Accessory,Walker Ltd,251.07,564.84,57
+01493,describe,Accessory,Estrada Group,149.84,655.7,47
+"01494,activity,Laptop,""Gardner, Sparks and King"",210.39,183.76,42"
+01495,first,Laptop,Stout Group,176.38,430.25,40
+"01496,floor,Laptop,""Singh, Steele and Nelson"",218.13,282.32,30"
+01497,law,Smartphone,Jenkins PLC,433.07,469.65,47
+01498,hot,Tablet,Martin Inc,435.51,610.8,53
+01499,difficult,Laptop,Shaw Ltd,482.52,412.81,11
+"01500,that,Laptop,""Gill, Davis and White"",390.8,161.49,18"
+01501,fill,Smartphone,Yu Ltd,300.62,646.17,11
+"01502,three,Smartphone,""Perkins, Benjamin and Harris"",326.99,423.16,94"
+01503,would,Accessory,Cuevas and Sons,259.45,534.59,33
+01504,step,Tablet,Anderson-Mills,299.31,444.19,86
+"01505,treatment,Laptop,""Owens, Flores and Carter"",462.68,269.31,31"
+"01506,hour,Tablet,""Chambers, Green and Jones"",90.99,69.1,11"
+"01507,vote,Accessory,""Hernandez, Petty and Thompson"",177.48,595.32,10"
+"01508,military,Laptop,""Gamble, Williams and Fleming"",347.08,440.15,56"
+01509,key,Laptop,Hart Inc,269.39,189.74,37
+01510,subject,Tablet,Choi and Sons,412.86,123.26,61
+01511,say,Laptop,Simpson-Hicks,129.14,179.04,75
+01512,order,Smartphone,Clark-Escobar,219.32,397.34,15
+"01513,care,Smartphone,""Young, Lee and Anderson"",367.26,518.89,61"
+01514,contain,Laptop,Banks-Sullivan,280.76,480.51,79
+"01515,peace,Laptop,""Jones, Johnson and Thornton"",243.2,153.47,29"
+01516,order,Tablet,Thomas-Harris,73.73,129.32,32
+01517,occur,Accessory,Barber and Sons,128.82,357.63,87
+"01518,especially,Tablet,""Caldwell, Harrison and Gordon"",284.3,524.32,32"
+01519,paper,Tablet,Butler PLC,488.81,642.24,80
+01520,travel,Accessory,Miller LLC,447.96,668.5,85
+"01521,standard,Accessory,""Gross, Wright and Mcconnell"",264.74,594.51,40"
+"01522,number,Smartphone,""Williams, Lyons and Wheeler"",427.63,464.87,69"
+01523,education,Laptop,Pearson PLC,424.35,159.52,12
+01524,up,Tablet,Young-Garrett,116.35,350.85,2
+01525,receive,Accessory,Davis Inc,177.59,489.85,20
+01526,city,Laptop,Thomas-Schroeder,153.52,333.61,35
+01527,wait,Accessory,Harrell-Townsend,283.64,169.86,13
+01528,treat,Laptop,Fernandez and Sons,227.46,82.02,44
+01529,financial,Tablet,Johnson-Wells,57.47,161.22,41
+01530,person,Laptop,Brooks Group,300.24,162.17,39
+"01531,hotel,Smartphone,""Owen, Welch and Lucas"",266.05,402.16,15"
+01532,per,Laptop,King PLC,128.42,492.32,78
+01533,show,Laptop,Cobb and Sons,248.35,192.09,4
+01534,expert,Smartphone,Campbell-Sanchez,462.67,186.66,70
+"01535,year,Accessory,""Caldwell, Ward and Dominguez"",350.47,585.63,6"
+01536,world,Tablet,Davidson PLC,306.15,251.73,26
+01537,woman,Smartphone,Knight-Garcia,317.92,307.63,64
+01538,commercial,Laptop,Rosario-Smith,404.86,560.42,74
+"01539,yeah,Accessory,""Soto, Hernandez and Martin"",400.08,647.3,21"
+01540,painting,Accessory,Barrett-Fleming,336.84,425.03,19
+01541,generation,Accessory,Jackson-Coffey,231.52,562.33,77
+01542,high,Laptop,Campbell-Mejia,390.37,660.84,44
+01543,car,Tablet,King Ltd,148.69,520.37,27
+"01544,industry,Smartphone,""Jones, Smith and Robinson"",274.42,234.81,52"
+"01545,toward,Smartphone,""Blackburn, Johnson and Murray"",245.11,488.65,38"
+"01546,next,Accessory,""Hicks, Clark and Sutton"",421.62,358.83,1"
+01547,benefit,Accessory,Ortega and Sons,154.93,105.34,61
+01548,person,Laptop,Price-Anderson,326.8,437.24,5
+"01549,mouth,Smartphone,""Smith, Bryant and Schmidt"",293.39,225.61,80"
+01550,gas,Smartphone,Boyle PLC,76.18,61.73,67
+01551,relate,Laptop,Hale PLC,84.86,574.95,64
+01552,near,Smartphone,Reid and Sons,283.71,641.05,35
+01553,continue,Tablet,Michael Inc,414.58,471.37,17
+"01554,happy,Tablet,""Smith, Thomas and Arroyo"",71.32,123.39,6"
+"01555,let,Accessory,""Conner, Parks and Case"",391.02,102.57,81"
+"01556,worry,Accessory,""Williams, Hill and Garcia"",76.93,242.57,39"
+01557,bag,Tablet,Johnson Group,202.46,219.33,17
+01558,on,Accessory,Mcdowell Ltd,291.08,544.3,23
+01559,modern,Laptop,Scott LLC,159.25,464.01,30
+01560,itself,Laptop,Combs PLC,192.37,140.12,45
+01561,indeed,Tablet,Hall and Sons,186.2,351.23,84
+01562,article,Accessory,Knight Ltd,85.4,596.48,45
+01563,benefit,Smartphone,Scott LLC,193.21,460.24,80
+01564,eat,Tablet,Mccormick and Sons,195.88,79.13,65
+01565,start,Accessory,Garza Ltd,360.91,343.23,16
+01566,rule,Laptop,Griffin PLC,420.39,293.8,79
+"01567,data,Laptop,""Hurst, Macdonald and Williams"",137.55,76.19,86"
+"01568,among,Laptop,""Carlson, Casey and Green"",143.86,525.54,85"
+"01569,born,Tablet,""Shields, Mullins and Walker"",370.42,580.76,78"
+01570,nor,Laptop,Ward Inc,305.47,289.61,2
+01571,thousand,Tablet,Weaver PLC,329.08,403.6,46
+01572,clear,Tablet,Mckenzie Inc,468.25,556.36,19
+01573,writer,Tablet,Stewart PLC,179.73,124.97,62
+"01574,win,Accessory,""Sims, Cunningham and Thomas"",299.84,560.58,58"
+01575,identify,Laptop,Morgan-Paul,118.39,475.89,21
+01576,little,Tablet,Nelson LLC,318.63,431.33,22
+01577,check,Laptop,Bennett-Chambers,400.24,583.5,53
+01578,of,Tablet,Esparza Ltd,114.01,354.49,96
+01579,leg,Laptop,Peterson Ltd,462.71,152.21,47
+01580,accept,Accessory,Kim Ltd,67.65,79.62,50
+01581,since,Tablet,Lee Inc,99.9,369.9,83
+"01582,though,Accessory,""Smith, Brooks and Stevens"",159.28,620.4,8"
+"01583,audience,Tablet,""Larson, Butler and Baker"",443.46,410.9,40"
+01584,arm,Tablet,Wilson Ltd,160.42,437.44,39
+01585,bar,Accessory,Curtis and Sons,143.47,224.13,64
+01586,already,Tablet,Willis Group,430.93,498.73,54
+01587,fast,Laptop,Barnes-Anderson,118.24,615.83,20
+"01588,industry,Accessory,""Fitzpatrick, Larson and Carrillo"",73.14,450.91,1"
+01589,interesting,Accessory,Webb Group,198.84,401.81,85
+"01590,debate,Tablet,""Simpson, Hamilton and Rivas"",243.95,538.75,35"
+01591,doctor,Tablet,Wolfe-Dorsey,361.38,412.56,56
+01592,themselves,Laptop,Freeman-Schwartz,328.17,314.29,38
+01593,hour,Laptop,Thompson PLC,343.87,627.68,37
+01594,church,Smartphone,Hubbard Ltd,246.19,151.68,22
+01595,stand,Smartphone,Mccall and Sons,474.19,347.14,20
+"01596,senior,Accessory,""Mueller, Martinez and Garza"",63.69,269.69,71"
+01597,Democrat,Tablet,Wyatt-Kemp,362.65,85.78,75
+"01598,second,Tablet,""Romero, Mooney and Bowen"",108.57,194.7,98"
+01599,century,Smartphone,Young-Moore,319.56,313.53,25
+"01600,street,Laptop,""Weaver, Jones and Drake"",476.55,524.6,10"
+"01601,little,Laptop,""Cox, Humphrey and Hahn"",340.89,478.04,70"
+01602,until,Accessory,Sanchez Group,53.61,365.25,89
+"01603,build,Laptop,""Curry, Graham and May"",367.08,644.06,79"
+"01604,show,Laptop,""Jackson, Whitehead and Mccormick"",113.44,250.75,50"
+"01605,everyone,Smartphone,""Hanna, Wilson and Mitchell"",280.17,157.52,100"
+01606,into,Smartphone,Greer-Parker,218.06,176.84,52
+01607,whom,Tablet,Powell-Edwards,439.53,667.49,98
+01608,argue,Tablet,Bates-Lambert,471.38,64.8,16
+01609,federal,Accessory,Shepard-Johnson,189.06,526.42,63
+01610,appear,Accessory,Nguyen-Miller,379.52,408.65,33
+01611,base,Accessory,Schwartz-Sanchez,145.16,655.19,41
+"01612,beat,Smartphone,""Ramos, Anderson and Kelley"",146.43,86.47,3"
+"01613,fear,Laptop,""Roberts, Chan and Aguirre"",355.1,670.59,96"
+"01614,point,Smartphone,""Parker, Petersen and Williams"",119.29,569.92,94"
+01615,commercial,Laptop,Calhoun and Sons,484.51,663.63,82
+01616,result,Tablet,Wright Group,64.56,635.74,80
+01617,bar,Accessory,Ramsey PLC,439.84,344.32,77
+01618,lay,Laptop,Stone PLC,182.08,627.79,10
+01619,I,Smartphone,Burns-Bradford,296.07,230.11,10
+"01620,thank,Tablet,""Hernandez, Campbell and Brown"",50.73,699.77,42"
+01621,participant,Tablet,Ballard Inc,422.41,460.74,91
+"01622,close,Smartphone,""Carson, Trujillo and Cole"",458.43,155.26,30"
+01623,team,Laptop,Anderson-Meyer,56.2,580.8,5
+"01624,citizen,Accessory,""Palmer, Jones and Coleman"",80.41,685.88,47"
+01625,candidate,Tablet,Gutierrez-Henderson,158.9,220.07,64
+01626,very,Smartphone,Riddle-Stone,402.41,651.89,4
+01627,bill,Tablet,Crawford-Schmitt,471.05,491.85,78
+01628,federal,Tablet,Gallagher Group,104.87,366.1,8
+01629,sort,Smartphone,Newton-Cooper,299.44,504.41,24
+01630,late,Laptop,Rios PLC,355.55,357.63,21
+01631,price,Tablet,Woods-Hansen,254.02,323.45,63
+01632,good,Accessory,Willis PLC,159.3,461.54,1
+01633,son,Laptop,Lewis Inc,358.18,281.54,67
+"01634,thank,Accessory,""Brown, Fisher and Dunn"",292.96,273.91,82"
+"01635,wait,Laptop,""Torres, Martinez and Miles"",107.71,147.98,44"
+"01636,red,Accessory,""Perkins, Glover and Logan"",99.84,98.35,76"
+"01637,it,Tablet,""Gutierrez, Jimenez and Baker"",232.98,569.56,91"
+01638,care,Laptop,Sanders-Hogan,184.63,501.87,2
+01639,leg,Smartphone,Curtis PLC,111.88,96.5,69
+"01640,after,Laptop,""Rivera, Willis and Grant"",74.0,531.13,3"
+01641,top,Laptop,Anderson-Wright,370.89,200.05,42
+01642,effort,Laptop,Garcia-Perez,214.83,583.7,95
+"01643,sort,Accessory,""Barrett, Sosa and Leonard"",461.21,535.19,85"
+"01644,rise,Laptop,""Hensley, Bryant and Marsh"",254.82,531.29,100"
+"01645,keep,Smartphone,""Collins, Smith and Ortega"",473.94,223.38,68"
+"01646,else,Smartphone,""Harding, Meyers and Beck"",311.31,530.64,8"
+"01647,practice,Tablet,""Murray, Pope and Garcia"",178.68,230.76,87"
+01648,recognize,Accessory,Daniels and Sons,214.55,448.26,32
+01649,organization,Smartphone,Marquez Inc,378.38,325.9,26
+01650,can,Laptop,Henderson-Ryan,244.13,657.58,40
+01651,be,Laptop,Jones Inc,248.7,539.01,46
+"01652,history,Laptop,""Lindsey, Lawrence and Mendoza"",388.45,267.46,26"
+01653,happy,Accessory,Mullins-Banks,219.46,511.75,81
+"01654,save,Accessory,""Thornton, Myers and Hartman"",445.1,99.62,77"
+01655,suffer,Smartphone,Mendez Inc,208.9,557.21,9
+"01656,hundred,Tablet,""Smith, Cortez and Russell"",388.83,362.05,46"
+01657,surface,Tablet,Robinson LLC,104.34,72.07,40
+01658,member,Laptop,Chavez Ltd,233.2,548.79,34
+01659,woman,Tablet,Brooks PLC,436.49,431.07,17
+01660,seem,Laptop,Martin-Poole,193.26,245.51,73
+01661,artist,Smartphone,Fischer Ltd,497.69,260.67,93
+01662,adult,Laptop,Griffin-Beltran,109.32,558.25,46
+01663,nature,Smartphone,Young Ltd,285.19,337.89,17
+"01664,thought,Smartphone,""Sanchez, Zhang and Kelly"",232.39,433.35,15"
+01665,education,Laptop,Rivers Group,437.17,591.53,92
+"01666,candidate,Smartphone,""Davidson, Vazquez and Thomas"",240.52,159.77,12"
+01667,I,Accessory,Gomez-Rodriguez,123.31,669.07,56
+01668,analysis,Accessory,Gonzalez and Sons,153.23,352.43,45
+01669,food,Laptop,Stevenson Ltd,478.1,641.9,0
+"01670,physical,Tablet,""Gonzalez, Perry and Rodriguez"",251.02,488.93,75"
+"01671,head,Tablet,""Hartman, Scott and Nelson"",131.47,88.81,52"
+"01672,feeling,Smartphone,""Edwards, Taylor and James"",174.83,687.17,68"
+01673,cover,Tablet,Williams Inc,60.42,153.63,23
+"01674,require,Tablet,""Mendez, Johnson and Fernandez"",252.43,308.74,64"
+01675,view,Accessory,Norton-Gilmore,238.67,471.91,66
+"01676,song,Laptop,""Ramirez, Jones and Carroll"",312.51,455.48,84"
+01677,little,Tablet,Rodgers-Hunt,225.54,550.28,33
+01678,area,Smartphone,Barrett-Murphy,446.04,70.86,56
+01679,run,Smartphone,Duncan-Allen,407.17,254.16,33
+01680,free,Smartphone,Johnson PLC,311.79,411.59,19
+01681,heavy,Smartphone,Nguyen-Hoover,483.71,134.75,24
+01682,wait,Laptop,Fox PLC,254.23,607.36,71
+01683,range,Accessory,Velasquez Inc,406.14,332.89,36
+01684,indeed,Tablet,James-Alvarez,88.99,558.18,4
+01685,painting,Laptop,Rosales-Huang,342.88,678.99,48
+01686,foot,Smartphone,Dunn and Sons,364.68,71.52,95
+01687,paper,Smartphone,Thompson-Mcgee,436.85,631.35,57
+01688,compare,Accessory,Mahoney-Cox,203.75,99.21,38
+01689,thank,Smartphone,Smith-Hahn,481.27,254.74,8
+01690,kitchen,Smartphone,Doyle-Lopez,471.2,61.11,55
+01691,power,Accessory,Reese LLC,152.11,530.04,64
+"01692,drop,Accessory,""Crane, Mitchell and Brown"",490.22,454.28,13"
+01693,certain,Tablet,Clark-Fisher,328.57,304.61,54
+"01694,ever,Tablet,""Stone, Fletcher and Pruitt"",463.5,523.95,13"
+01695,someone,Tablet,Mora-Martin,406.8,577.0,94
+01696,tell,Smartphone,Mathews-Cummings,210.76,575.3,47
+"01697,money,Tablet,""Allen, Bentley and Booth"",438.14,403.32,89"
+01698,evening,Accessory,Combs-Roberson,96.08,608.94,84
+"01699,audience,Tablet,""Mejia, Smith and Moody"",365.41,558.45,24"
+"01700,raise,Accessory,""Cooper, Glenn and Schroeder"",59.91,673.35,46"
+"01701,car,Smartphone,""Hart, Santos and Ruiz"",294.08,223.15,60"
+"01702,set,Tablet,""Randall, Flores and Fowler"",337.55,564.33,42"
+"01703,wife,Tablet,""Armstrong, Hancock and Mercado"",221.05,511.48,21"
+"01704,end,Smartphone,""Smith, Kim and Jacobson"",163.18,473.79,5"
+"01705,instead,Tablet,""Anderson, Gibson and Jimenez"",494.11,82.31,35"
+01706,some,Tablet,Ward and Sons,76.67,86.4,69
+"01707,prevent,Tablet,""Bailey, Hurley and Sherman"",299.54,123.5,57"
+"01708,place,Accessory,""Anderson, Mitchell and Beard"",493.96,124.45,68"
+01709,company,Tablet,Webb-Rodriguez,192.8,500.87,68
+01710,knowledge,Tablet,Smith Inc,482.13,475.1,25
+"01711,door,Laptop,""Miller, Macias and Wheeler"",232.75,266.87,65"
+01712,in,Laptop,Hodges-Graham,359.77,369.74,60
+01713,serious,Laptop,Smith Ltd,93.78,614.46,88
+01714,sound,Smartphone,Thompson Group,63.61,447.97,54
+01715,community,Smartphone,Lopez-Crosby,193.44,363.0,85
+"01716,investment,Smartphone,""Lewis, Montgomery and Ramsey"",126.08,645.55,32"
+01717,part,Tablet,Sparks and Sons,451.04,459.09,59
+"01718,son,Laptop,""Dominguez, Williams and Herman"",284.87,283.02,30"
+"01719,end,Smartphone,""King, Baldwin and Lam"",392.28,279.78,14"
+01720,teach,Tablet,Smith LLC,488.67,136.67,1
+"01721,yourself,Tablet,""Mcgee, Cohen and Gonzalez"",235.03,529.7,16"
+01722,result,Accessory,Branch-Anderson,441.88,662.29,22
+01723,might,Laptop,Lewis Inc,476.49,138.76,20
+"01724,style,Tablet,""Hartman, Johnson and Rose"",370.66,501.45,6"
+01725,quickly,Tablet,Brennan-Oneal,379.8,134.3,2
+"01726,do,Tablet,""Martinez, Yoder and Walter"",237.86,698.45,6"
+01727,market,Smartphone,Peterson PLC,297.13,197.06,79
+01728,keep,Smartphone,Hernandez-Davis,116.37,250.69,26
+01729,including,Laptop,Stevens-Lucero,196.89,419.56,86
+01730,fight,Smartphone,Mckenzie and Sons,347.02,375.09,43
+01731,court,Accessory,Rubio PLC,313.17,501.89,58
+01732,point,Smartphone,Daugherty-Peterson,351.16,332.78,60
+"01733,cup,Accessory,""Soto, Barton and Johnson"",72.18,180.56,95"
+01734,real,Laptop,Valencia Group,482.89,93.66,96
+01735,me,Smartphone,Burch-Schroeder,395.53,633.22,29
+01736,only,Smartphone,Robinson and Sons,88.6,74.67,100
+01737,lose,Tablet,Frazier-Anderson,271.66,410.8,74
+"01738,fish,Tablet,""Kelley, Alvarado and Hill"",211.09,298.75,56"
+01739,raise,Tablet,King Ltd,297.01,368.53,71
+"01740,security,Accessory,""Conrad, Torres and Garrett"",362.02,408.54,91"
+01741,color,Laptop,Wallace-Edwards,290.12,385.39,42
+01742,collection,Laptop,Roberts-Stout,348.41,384.89,92
+01743,me,Accessory,Turner-Ruiz,248.95,185.72,68
+"01744,could,Smartphone,""Turner, Lewis and Boyd"",201.73,682.69,1"
+01745,affect,Laptop,Deleon-Fields,320.07,333.56,4
+01746,room,Accessory,Mitchell-Rodriguez,87.54,455.7,7
+"01747,meeting,Smartphone,""Turner, Tyler and Garcia"",273.04,590.97,74"
+01748,pressure,Laptop,Murphy Inc,269.93,69.53,75
+01749,benefit,Smartphone,Reed-Brooks,219.38,172.88,69
+01750,level,Laptop,Ruiz-Sanders,480.35,136.8,3
+01751,sound,Smartphone,Garcia-Richards,224.23,659.43,83
+"01752,everything,Accessory,""Bauer, Taylor and Torres"",243.86,331.38,95"
+01753,land,Accessory,Jones-Berry,332.85,535.46,90
+01754,win,Accessory,Valentine and Sons,54.24,474.2,74
+"01755,good,Laptop,""Knapp, Davis and Young"",152.34,181.13,22"
+"01756,watch,Laptop,""Singleton, Hurley and Henderson"",177.07,275.44,88"
+01757,month,Smartphone,Love and Sons,445.84,610.68,56
+01758,none,Laptop,Mcneil-Johnston,371.66,262.6,76
+01759,itself,Accessory,Perez-Nelson,310.14,500.38,88
+01760,meet,Accessory,Barker-Farmer,390.5,281.61,5
+01761,music,Tablet,Thompson and Sons,492.53,242.63,7
+01762,particularly,Laptop,Juarez-Schneider,360.32,574.94,76
+"01763,leader,Tablet,""Cunningham, Vargas and Brewer"",404.3,183.4,97"
+01764,perhaps,Tablet,Christian-Valdez,157.33,584.64,3
+01765,gas,Smartphone,Walter-Bennett,452.48,687.8,16
+01766,local,Tablet,Turner PLC,282.57,647.09,17
+"01767,program,Accessory,""Cunningham, Garcia and Decker"",238.43,373.98,66"
+01768,much,Accessory,Ramirez-Gross,403.92,506.71,78
+"01769,camera,Smartphone,""Schmitt, Baker and Dawson"",148.94,62.74,75"
+"01770,fight,Accessory,""Ruiz, Bush and Wells"",293.33,155.86,64"
+"01771,rate,Smartphone,""Carlson, Kim and Guzman"",163.6,115.25,49"
+"01772,behavior,Accessory,""Bryant, Davis and Gonzalez"",408.99,330.23,65"
+"01773,development,Tablet,""Gonzalez, Hall and Jacobs"",400.49,445.81,89"
+01774,around,Smartphone,Mendoza Ltd,217.88,450.92,64
+"01775,wind,Tablet,""Wright, Wise and Weaver"",260.1,333.63,73"
+01776,policy,Smartphone,Garner-Wilson,116.91,583.16,45
+01777,fire,Laptop,Welch-Lee,233.26,358.89,25
+01778,himself,Laptop,Schultz LLC,242.6,252.56,16
+01779,church,Accessory,Brown and Sons,212.97,140.83,16
+"01780,million,Tablet,""Jackson, Martin and Martinez"",481.56,457.98,78"
+01781,item,Laptop,Munoz-Davis,225.21,290.62,98
+01782,stand,Tablet,Livingston-Morales,206.6,312.56,57
+"01783,next,Accessory,""Rodriguez, Nguyen and Allen"",380.62,495.79,85"
+"01784,finally,Laptop,""Fox, Mason and Campbell"",297.61,268.14,16"
+"01785,include,Smartphone,""Day, Clark and Davis"",385.68,433.22,75"
+01786,early,Smartphone,Gay-Smith,286.45,431.58,69
+01787,husband,Accessory,Patterson-Brown,227.12,221.44,9
+"01788,general,Smartphone,""Hendrix, Huynh and Martin"",358.6,239.11,97"
+01789,player,Tablet,Orozco-Watts,52.68,222.37,78
+"01790,hour,Smartphone,""Gomez, Martin and Becker"",237.52,350.67,67"
+"01791,mouth,Accessory,""Pena, Jones and Campbell"",165.66,393.21,97"
+01792,dream,Laptop,Williams LLC,296.4,650.41,82
+"01793,guy,Accessory,""Jenkins, Haynes and Lawrence"",420.67,159.47,61"
+"01794,series,Smartphone,""Wolfe, Daniels and Combs"",154.56,590.51,43"
+01795,store,Laptop,Landry-Patterson,173.21,388.01,44
+"01796,baby,Laptop,""Gonzalez, Montgomery and Bradley"",95.77,192.01,48"
+"01797,coach,Tablet,""Torres, Castro and Jackson"",218.96,626.1,72"
+"01798,coach,Smartphone,""Wright, George and King"",371.29,180.02,56"
+"01799,rich,Smartphone,""Baker, Wheeler and Fields"",304.67,495.19,73"
+"01800,herself,Accessory,""Ortiz, West and Gilmore"",126.83,165.75,38"
+"01801,short,Laptop,""Jackson, Davis and Hall"",482.48,494.43,39"
+01802,suggest,Accessory,Miller Inc,271.76,644.39,22
+"01803,type,Accessory,""Ortiz, Davies and Johnson"",332.47,686.06,91"
+01804,business,Laptop,Ortiz-Kane,75.36,351.17,18
+"01805,skill,Laptop,""Richardson, Wilson and Medina"",468.34,155.76,31"
+"01806,she,Accessory,""Reed, Henson and Smith"",337.15,564.4,33"
+01807,production,Laptop,Robinson-Gomez,458.66,518.65,87
+01808,in,Tablet,Mcdonald-Nelson,200.42,326.95,94
+"01809,both,Tablet,""Daniels, Nelson and Thomas"",360.53,399.29,66"
+"01810,fear,Laptop,""Washington, Maynard and Shea"",491.92,461.42,44"
+"01811,treatment,Laptop,""Sherman, Beck and Salas"",122.48,610.03,52"
+01812,work,Tablet,Gray and Sons,332.15,653.71,6
+01813,day,Accessory,Farmer Group,144.49,501.15,73
+"01814,upon,Accessory,""Dunlap, Rhodes and Chen"",485.95,471.36,92"
+01815,partner,Laptop,Vasquez-Powell,344.9,487.6,82
+01816,way,Laptop,Daniels-Hall,355.18,172.49,1
+01817,character,Tablet,Daniel Group,95.33,254.48,86
+"01818,executive,Smartphone,""Hale, Johnson and Hanson"",254.97,483.93,7"
+01819,finally,Smartphone,Chase Group,286.52,267.93,89
+01820,accept,Laptop,West PLC,139.86,641.73,78
+"01821,where,Tablet,""Payne, Green and Dyer"",412.16,530.54,79"
+"01822,card,Accessory,""Reyes, Crawford and Stewart"",388.44,281.77,52"
+"01823,between,Tablet,""Harrington, Hoffman and Clark"",140.58,577.66,23"
+01824,budget,Accessory,Thompson Group,333.45,578.01,52
+"01825,black,Accessory,""Smith, Thompson and Cortez"",70.17,671.48,71"
+01826,cause,Accessory,Brown Inc,406.25,695.79,83
+"01827,factor,Tablet,""Garza, Lucero and Evans"",389.96,308.41,89"
+01828,Democrat,Accessory,Davidson-Long,61.57,564.03,76
+01829,prove,Tablet,Wolf LLC,397.05,340.37,8
+01830,poor,Laptop,Brown Group,155.69,264.92,87
+"01831,growth,Accessory,""Banks, Gonzalez and Tran"",356.38,444.06,93"
+"01832,probably,Accessory,""Curry, Clark and Gonzalez"",475.89,349.22,40"
+"01833,day,Smartphone,""Hall, Herrera and Powers"",240.09,404.07,88"
+01834,use,Smartphone,Nguyen-Pruitt,298.39,500.64,67
+"01835,president,Accessory,""Frank, Sampson and Willis"",210.38,398.83,46"
+01836,great,Accessory,Copeland-Carter,130.09,568.41,88
+"01837,degree,Smartphone,""Schaefer, Pena and Hoffman"",242.41,164.68,52"
+"01838,analysis,Smartphone,""Nguyen, Simpson and Guerrero"",55.85,671.53,27"
+01839,book,Smartphone,Payne LLC,187.96,177.01,58
+01840,cultural,Smartphone,Carter and Sons,212.61,230.63,47
+01841,staff,Tablet,Daniel and Sons,449.43,83.22,42
+01842,unit,Smartphone,Compton Ltd,458.25,617.12,17
+01843,open,Tablet,Reid-Ayala,201.97,634.61,16
+"01844,same,Tablet,""Kim, Waters and Gibson"",61.64,500.65,56"
+01845,south,Accessory,Wilson-Gomez,196.48,193.56,61
+01846,argue,Laptop,Williams Ltd,81.43,194.15,1
+01847,place,Accessory,Walker-Reeves,496.33,688.5,16
+01848,system,Tablet,Clark PLC,100.54,481.26,92
+01849,according,Laptop,Miller and Sons,351.56,684.09,68
+01850,everyone,Smartphone,Brown-Morrison,169.2,186.68,45
+01851,nice,Laptop,Hall-Sims,474.55,682.28,9
+01852,discover,Tablet,Rowe-Cook,252.13,119.65,54
+01853,should,Laptop,Jennings-Wells,303.97,142.73,94
+01854,major,Laptop,Wilson-Dennis,242.34,85.33,73
+01855,card,Accessory,Pratt-Morgan,184.54,501.76,3
+01856,professor,Laptop,Jones-Gonzalez,443.63,205.5,41
+01857,certain,Laptop,Jimenez-Cortez,388.34,611.63,70
+01858,value,Accessory,Martinez Group,179.37,525.18,95
+01859,clearly,Accessory,Rodriguez Group,170.23,506.27,30
+"01860,under,Laptop,""Johnston, Tucker and Bennett"",262.53,536.98,74"
+01861,word,Smartphone,Allen and Sons,364.1,509.43,81
+01862,hold,Accessory,Johnson LLC,402.95,696.29,42
+"01863,why,Laptop,""Smith, Blevins and Cooper"",457.59,319.63,62"
+01864,himself,Tablet,Reese-Cline,481.6,70.85,26
+"01865,hear,Smartphone,""Crawford, Wilson and Garrett"",69.61,511.55,3"
+01866,baby,Smartphone,Ayala LLC,151.29,98.59,6
+01867,miss,Accessory,Martinez-Rodriguez,163.16,356.84,76
+01868,quite,Smartphone,Lindsey-Wells,131.72,437.09,48
+"01869,use,Tablet,""Chavez, Norris and Adams"",191.38,508.61,31"
+01870,article,Tablet,Johnson-Anderson,60.37,316.53,79
+01871,indicate,Tablet,Callahan Ltd,98.96,179.91,33
+01872,loss,Accessory,Rodriguez Ltd,401.21,234.57,49
+01873,product,Tablet,Meza Inc,170.48,500.38,28
+01874,industry,Smartphone,Lambert-Rogers,363.08,648.35,83
+01875,since,Smartphone,Harris and Sons,231.75,633.85,67
+01876,look,Smartphone,May Group,303.92,633.5,66
+01877,main,Tablet,Thompson-White,51.96,642.51,64
+01878,TV,Tablet,Rollins LLC,424.22,345.15,40
+"01879,dark,Accessory,""Houston, Ashley and Marshall"",76.29,573.58,73"
+01880,blue,Tablet,Dennis Inc,252.24,510.95,19
+"01881,administration,Laptop,""Reilly, Williams and Diaz"",426.07,468.66,29"
+"01882,cell,Smartphone,""Wade, Barrera and Hopkins"",79.27,320.61,97"
+01883,number,Tablet,Waters Group,465.22,423.79,51
+"01884,seek,Laptop,""Sutton, Walker and Dunn"",67.56,259.48,61"
+01885,certainly,Laptop,Dunn-Gonzalez,106.88,295.73,84
+01886,significant,Tablet,Ortega-Peters,200.18,412.08,82
+"01887,environmental,Tablet,""Lee, Nguyen and Reeves"",464.81,422.99,6"
+01888,civil,Laptop,Campos and Sons,382.46,514.55,77
+"01889,subject,Tablet,""Sanders, Mason and Chavez"",345.88,250.95,16"
+01890,else,Tablet,Olsen Inc,222.86,169.46,92
+01891,often,Laptop,Rowland-Taylor,498.8,537.97,22
+"01892,large,Laptop,""Petersen, Rivera and Williamson"",243.37,108.57,19"
+01893,fill,Smartphone,Taylor LLC,253.45,267.83,41
+01894,bed,Smartphone,Jones Inc,313.85,123.94,84
+01895,organization,Laptop,Morris and Sons,398.49,588.79,20
+01896,ago,Tablet,Boyd-Ball,386.55,627.55,23
+"01897,develop,Tablet,""Mendoza, Myers and Luna"",254.73,515.19,10"
+"01898,catch,Laptop,""Lutz, Schmitt and Martin"",497.51,570.81,8"
+01899,hour,Laptop,Mckinney Inc,436.73,145.36,84
+01900,maintain,Accessory,Franklin Ltd,317.67,430.3,98
+01901,information,Tablet,Smith-Carter,272.26,438.25,27
+01902,cold,Tablet,Solomon-Mills,257.48,528.17,87
+01903,economy,Laptop,Lane-Cruz,95.72,332.95,69
+01904,soldier,Smartphone,Perez-Huber,121.54,567.18,26
+01905,so,Smartphone,Abbott PLC,386.82,517.07,54
+"01906,attorney,Accessory,""Carlson, Arnold and Reid"",378.72,167.1,90"
+"01907,discover,Laptop,""Allison, Brown and Fowler"",248.19,275.85,62"
+01908,white,Accessory,Edwards-Lewis,291.6,118.58,28
+"01909,white,Laptop,""Sanchez, Prince and Hernandez"",79.3,492.35,19"
+"01910,focus,Laptop,""Vang, Moses and Hernandez"",492.45,552.23,54"
+01911,necessary,Tablet,Hinton-Pearson,153.91,534.6,77
+01912,ten,Accessory,Sanchez-Green,434.78,613.71,20
+01913,good,Smartphone,Smith Group,85.18,467.07,53
+01914,side,Tablet,Acosta-Hinton,335.14,120.09,60
+01915,two,Smartphone,Brown-Hampton,423.13,365.06,93
+01916,set,Accessory,Tucker-Newton,68.85,393.69,49
+01917,mouth,Accessory,Wilkinson-Brandt,185.23,344.09,100
+"01918,late,Tablet,""Bradley, Anderson and Wheeler"",155.28,691.66,18"
+01919,begin,Laptop,Turner-Willis,210.3,513.74,86
+01920,school,Accessory,Duffy Ltd,328.61,480.69,34
+"01921,girl,Laptop,""Sanders, Richards and Mercer"",393.53,475.25,28"
+"01922,night,Smartphone,""Whitehead, Mitchell and Pugh"",69.41,447.91,70"
+01923,address,Smartphone,Ho-Scott,326.19,112.89,88
+01924,step,Tablet,Villanueva PLC,110.71,621.59,88
+01925,tend,Laptop,Olson Inc,483.88,261.52,85
+01926,plant,Tablet,Miranda PLC,282.21,391.92,68
+01927,imagine,Smartphone,Stafford Inc,432.87,693.63,28
+01928,world,Tablet,Pitts-Carter,341.73,574.08,64
+01929,clear,Tablet,Hunter-Smith,388.04,314.74,1
+01930,life,Tablet,Johnson-Elliott,439.4,101.77,91
+01931,rise,Smartphone,Campbell-Orr,96.92,253.25,82
+01932,individual,Laptop,Anderson Ltd,408.13,612.82,49
+01933,offer,Laptop,Ortiz-Barry,405.31,502.43,47
+01934,quickly,Smartphone,Hines LLC,186.4,391.01,32
+01935,fund,Tablet,Burke PLC,187.73,193.47,84
+01936,center,Smartphone,Bartlett and Sons,155.58,315.44,35
+01937,about,Laptop,Price-Baker,344.25,296.3,72
+"01938,sit,Accessory,""Garcia, Johnson and Evans"",474.83,339.54,35"
+"01939,work,Tablet,""Williams, Burke and Pearson"",140.22,193.01,79"
+01940,language,Laptop,Bradford LLC,92.61,263.21,2
+01941,which,Accessory,Jackson-Ross,464.37,592.27,75
+01942,make,Smartphone,Bullock PLC,399.79,607.64,46
+01943,expect,Accessory,Baker-Marquez,428.68,675.13,69
+"01944,put,Accessory,""Bennett, Stevenson and Hill"",486.1,609.19,33"
+01945,focus,Smartphone,Sandoval-Lewis,353.41,241.34,92
+"01946,final,Laptop,""Davis, Huff and Lewis"",103.16,310.06,13"
+"01947,attorney,Accessory,""Rice, Hansen and Reyes"",337.59,403.28,66"
+"01948,box,Accessory,""Gross, Moore and Lynch"",142.06,151.77,73"
+01949,long,Tablet,Moore-Jones,80.12,402.34,32
+"01950,benefit,Laptop,""Reed, Walton and Garcia"",346.61,550.36,31"
+01951,sound,Tablet,Nichols-Fuller,203.61,96.18,48
+01952,happy,Accessory,Hunter Group,93.69,607.56,49
+01953,thank,Smartphone,Wilson PLC,327.61,492.57,79
+01954,edge,Laptop,Clayton and Sons,205.95,369.72,73
+01955,rate,Laptop,Johnson Inc,76.26,74.79,68
+"01956,fact,Accessory,""Harmon, Mcdaniel and Jacobs"",471.08,466.09,56"
+"01957,participant,Laptop,""Bell, Harding and Brown"",460.08,434.45,6"
+"01958,tough,Smartphone,""Green, Williams and Barton"",406.91,399.65,66"
+"01959,page,Smartphone,""Atkinson, Higgins and Reed"",170.08,232.02,7"
+"01960,present,Laptop,""Farrell, Cabrera and Kelly"",408.77,619.2,98"
+01961,not,Accessory,Romero-Lawson,96.24,228.68,45
+01962,president,Tablet,Stewart Ltd,167.28,603.95,8
+01963,coach,Laptop,Rivera Group,382.8,368.2,12
+01964,sound,Accessory,Gonzalez LLC,270.14,318.66,36
+01965,moment,Accessory,Smith-Keller,94.13,213.95,4
+"01966,couple,Accessory,""Watkins, Greene and Nelson"",379.15,419.75,67"
+01967,word,Smartphone,Jenkins LLC,76.97,475.62,85
+01968,exactly,Laptop,Cox-Crawford,429.3,697.52,31
+01969,region,Accessory,Frazier-Smith,226.22,367.55,58
+"01970,politics,Laptop,""Tanner, Anderson and Peters"",175.54,172.17,1"
+01971,capital,Tablet,Moore-Carter,382.1,369.85,77
+01972,value,Accessory,Larson-Nelson,73.97,553.62,78
+01973,politics,Accessory,Kramer PLC,486.51,477.84,96
+"01974,bad,Laptop,""Morales, Blanchard and Benjamin"",277.84,175.28,9"
+"01975,court,Smartphone,""Phillips, Pineda and Mcdonald"",261.37,202.38,91"
+01976,quality,Tablet,Russo-Snow,247.11,239.21,71
+"01977,accept,Accessory,""Richards, Anderson and Miller"",179.4,255.44,34"
+01978,wear,Tablet,Forbes-Rodriguez,295.01,182.03,80
+"01979,right,Laptop,""Lewis, Hansen and Cruz"",401.55,254.89,85"
+01980,business,Tablet,Beard Inc,68.58,320.89,97
+01981,must,Tablet,Mcneil LLC,423.16,63.12,96
+"01982,out,Laptop,""Berry, Nichols and Perkins"",51.71,509.58,98"
+01983,if,Accessory,Waters-Brown,206.64,183.31,68
+"01984,hope,Smartphone,""Morales, Smith and Rangel"",271.88,528.3,11"
+01985,receive,Laptop,Jacobson-Fields,56.21,520.33,79
+"01986,stage,Laptop,""Pittman, Parsons and Meyer"",182.93,635.46,97"
+01987,amount,Smartphone,Hudson and Sons,388.0,445.82,26
+01988,coach,Accessory,Reed-Robles,441.12,652.39,65
+01989,now,Smartphone,Morris LLC,95.91,372.01,65
+01990,field,Laptop,Murphy PLC,344.92,76.66,87
+"01991,look,Tablet,""Davis, Byrd and Evans"",174.15,206.9,91"
+01992,example,Smartphone,Perez-Burgess,177.42,557.08,7
+01993,skill,Accessory,Smith LLC,355.05,600.27,21
+01994,language,Accessory,Hayden Group,123.85,246.8,29
+01995,rise,Tablet,Foster PLC,215.43,531.5,89
+01996,sit,Accessory,Greer Ltd,281.61,106.12,50
+01997,real,Smartphone,Mcdaniel and Sons,451.07,482.79,37
+01998,world,Accessory,Garcia LLC,147.21,393.58,46
+01999,quite,Tablet,Jones LLC,314.95,118.94,21
+"02000,huge,Tablet,""Johnson, Jones and Castillo"",407.78,666.32,64"

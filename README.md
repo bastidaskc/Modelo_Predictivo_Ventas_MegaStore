@@ -1,0 +1,2 @@
+# Modelo_Predictivo_Ventas_MegaStore
+Proyecto productivo_Aqquepucho_Bastidas
